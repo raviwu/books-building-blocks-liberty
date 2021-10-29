@@ -1,5 +1,5 @@
 ---
-title: "Foreword" 
+title: "Foreword"
 weight: 20
 ---
 
@@ -20,5 +20,7 @@ There is one final trait of Block that might be overlooked: his humility. In a w
 A volume of all the “critical essays” by Walter Block would surely run into thousands of pages. But this is an excellent sampling, and a great tribute to one of the most inspired and hardworking intellectuals of our time.
 
 > Llewellyn H. Rockwell, Jr.
+>
 > Ludwig von Mises Institute
+>
 > Auburn, Alabama
