@@ -40,4 +40,4 @@ Walter Block 是 Loyola 大學經濟學客座教授、Mises Institute 資深研�
 
 ## 版權聲明
 
-中文版基於 [Creative Commons Attribution License 3.0.](http://creativecommons.org/licenses/by/3.0/) 授權的英文版本翻譯，並於網路上以 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 的授權公開發表。
+中文版基於 [Creative Commons Attribution License 3.0.](http://creativecommons.org/licenses/by/3.0/) 授權的英文版本翻譯，以 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 的授權公開發表。
