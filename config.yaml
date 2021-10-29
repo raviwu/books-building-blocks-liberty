@@ -17,12 +17,12 @@ menu:
   before:
     - name: "LW Studio"
       url: "http://lwstudio.org"
-      weight: 20
+      weight: 10
     - name: "Hugo Themes"
       url: "https://themes.gohugo.io/hugo-book/"
-      weight: 30
+      weight: 20
     - name: "------"
-      weight: 10
+      weight: 30
 
 languages:
   zh:
