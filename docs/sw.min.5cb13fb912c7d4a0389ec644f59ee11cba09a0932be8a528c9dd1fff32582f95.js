@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/books-building-blocks-liberty/sw.js",{scope:"/books-building-blocks-liberty/"})

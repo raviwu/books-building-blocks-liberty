@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raviwu.github.io/</loc>
+    <loc>https://raviwu.github.io/books-building-blocks-liberty/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://raviwu.github.io/en/"
+                href="https://raviwu.github.io/books-building-blocks-liberty/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://raviwu.github.io/"
+                href="https://raviwu.github.io/books-building-blocks-liberty/"
                 />
   </url>
 </urlset>
