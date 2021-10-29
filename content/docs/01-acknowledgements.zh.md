@@ -17,4 +17,4 @@ weight: 10
 
 在編備本書的過程中，我們獲得 Walter Block 教授的寶貴建議和幫助。他的建議和評論助我們進一步改進這本書。
 
-*Iulian Tãnase and Bogdan Glãvan*
+> Iulian Tãnase and Bogdan Glãvan

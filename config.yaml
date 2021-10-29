@@ -15,11 +15,11 @@ disableKinds:
 menu:
   # after: []
   before:
-    - name: "LW Studio"
+    - name: "LW Studio Blog"
       url: "http://lwstudio.org"
       weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
+    - name: "GitHub Source Code"
+      url: "https://github.com/raviwu/books-building-blocks-liberty"
       weight: 20
     - name: "------"
       weight: 30

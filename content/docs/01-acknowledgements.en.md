@@ -1,5 +1,5 @@
 ---
-title: "Acknowledgements" 
+title: "Acknowledgements"
 weight: 10
 ---
 
@@ -17,4 +17,4 @@ Thanks to Tudor Smirna for designing the cover.
 
 In the course of the preparation of this book we have received invaluable advice and assistance from Professor Walter Block. His very useful suggestions and comments helped us to improve the book further.
 
-*Iulian Tãnase and Bogdan Glãvan*
+> Iulian Tãnase and Bogdan Glãvan
