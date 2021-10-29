@@ -1,14 +1,14 @@
 {
   "name": "LW Studio",
   "short_name": "LW Studio",
-  "start_url": "/books-building-blocks-liberty/",
-  "scope": "/books-building-blocks-liberty/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/books-building-blocks-liberty/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]

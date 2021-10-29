@@ -182,12 +182,12 @@ If the roads in an entire section of town (e.g., the Upper East Side of Manhatta
 
 For example, one frequent blocker of traffic, and one which in no way aids the overall movement of motorists, is the automobile caught in an intersection when the light has changed. This situation arises from entering an intersecting cross street, in the hope of making it across so that, when the light changes, one will be ahead of vehicles turning off that street. In the accompanying diagram 1 (see below) a motorist is traveling west along the Side Street. Although the Side Street west of Main Street is chock full of cars, he nevertheless enters the intersection between Main Street and Side Street; he hopes that, by the time Main Street again enjoys the green light, the cars ahead of him will move forward, leaving room for him to leave the intersection.
 
-![Diagram 1]({{ .Site.BaseURL }}/images/diagram-1.png)
+![Diagram 1](/images/diagram-1.png)
 Diagram 1
 
 All too often, however, what happens is that traffic ahead of him on Side Street remains stationary, and the motorist gets caught in the middle of the intersection. Then, even when the traffic is signaled to move north on Main Street, it cannot; because of the impatience of our motorist, he and his fellows are now stuck in the intersection, blocking northbound traffic. If this process is repeated on the four intersections surrounding one city block (see diagram 2) it can (and does) bring traffic in the entire surrounding area to a virtual standstill.
 
-![Diagram 2]({{ .Site.BaseURL }}/images/diagram-2.png)
+![Diagram 2](/images/diagram-2.png)
 Diagram 2
 
 Currently, government regulations prohibit entering an intersection when there is no room on the other side. This rule is beside the point. The question is not whether a traffic system legally calls for certain actions, but whether this rule succeeds or not. If the mere passage of a law could suffice, all that would be needed to return to the Garden of Eden would be “enabling legislation.” What is called for, in addition to the proper rules of the road, is the actual attainment of motorists’ conformity with those rules. As far as this problem is concerned, private road companies have a comparative advantage over governments. For, as we have seen, if a government fails in this kind of mission, there is no process whereby it is relieved of its duties; whereas, let a private enterprise fail and retribution, in the form of bankruptcy, will be swift and total. Another street company, and still another, if needed, will evolve through the market process, to improve matters.
@@ -279,7 +279,7 @@ How might this work?
 
 Let us consider, for the sake of simplicity, a town laid out into sixty-four blocks, as in a checkerboard (see diagram 3). We can conveniently label the north-south or vertical avenues A through I, and the east-west or horizontal streets first through ninth. If a person wants to travel from the junction of First Street and Avenue A to Ninth Street and Avenue I, there are several paths he may take. He might go east along First Street to Avenue I, and then north along Avenue I, to Ninth Street, a horizontal and then a vertical trip. Or he may first go north to Ninth Street, and then east along Ninth Street to Avenue I. Alternatively, he may follow any number of zig-zag paths: east along First Street to Avenue B; north along Avenue B to Second Street; east again, along Second Street to Avenue C; north on C to Third Street... etc. Additionally, there are numerous intermediate paths between the pure zig-zag and the one turn.
 
-![Diagram 3]({{ .Site.BaseURL }}/images/diagram-3.png)
+![Diagram 3](/images/diagram-3.png)
 Diagram 3
 
 These possibilities do not open an indefinitely large number of paths, as might be required by the dictates of perfect competition. However, they are sufficiently numerous to serve as the basis for rivalrous competition, where one road entrepreneur, or set of entrepreneurs, seeks to offer better and cheaper channels for transportation than others.

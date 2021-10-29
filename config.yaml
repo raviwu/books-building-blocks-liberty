@@ -1,4 +1,5 @@
 baseURL: "https://raviwu.github.io/books-building-blocks-liberty/"
+canonifyurls: true
 languageCode: zh-tw
 defaultContentLanguage: zh
 title: "LW Studio"
