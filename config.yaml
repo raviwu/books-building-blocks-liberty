@@ -13,16 +13,16 @@ disableKinds:
   - 'taxonomyTerm'
 
 menu:
-  # before: []
-  after:
-    - name: "------"
-      weight: 10
+  # after: []
+  before:
     - name: "LW Studio"
       url: "http://lwstudio.org"
       weight: 20
     - name: "Hugo Themes"
       url: "https://themes.gohugo.io/hugo-book/"
       weight: 30
+    - name: "------"
+      weight: 10
 
 languages:
   zh:
