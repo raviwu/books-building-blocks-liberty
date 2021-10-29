@@ -51,7 +51,7 @@ The relationship between these two could be depicted by any downward-sloping cur
 
 What of “cpb?” Depicted in this realm of the x axis is a world so crowded it would resemble a “crowded phone booth.” What would be proper gun control policy under these extreme Malthusian assumptions? Again, contrary to what we have been calling traditional libertarian theory, the proportionality thesis yields a very different implication, namely the prohibition of firearms. However, the difference here is only with the conclusions that have previously been drawn on this topic, not with the underlying libertarian principle itself. In other words, we are putting forward the claim that proportionality theory leads to a more plumb-line libertarian position than previously achieved. That is because, paradoxically, it is more consistent with the premise that as long as a weapon’s power can be confined to evildoers, that is, its purpose can be limited to defense against aggression, it is not per se invasive and thus must be legitimate.
 
-![Figure 1](/images/figure-1.png)
+![Figure 1](./images/figure-1.png)
 Figure 1. The relation between geographical size and type of legal weaponry.
 
 However, in the hypercrowded world,[^11] not even a pistol, perhaps not even a knife, can possibly be used without impacting innocent people. If so, then it may be banned just as today we properly prohibit ownership of nukes in cities.

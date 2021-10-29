@@ -1,5 +1,5 @@
 ---
-title: "Building Blocks Liberty" 
+title: "Building Blocks Liberty"
 weight: 1
 ---
 
@@ -18,7 +18,7 @@ Checkout [mises.org](https://mises.org/library/building-blocks-liberty) to get t
 }
 </style>
 
-<img src="/images/cover-en.jpg" class="image-left" alt="Building Blocks Liberty"/>
+<img src="./images/cover-en.jpg" class="image-left" alt="Building Blocks Liberty"/>
 
 Walter Block ranks among the most prolific and provocative libertarian thinkers in human history. This volume fills an important gap in his corpus of writing: a series of accessible articles on cutting edge topics. His research and writing on roads, education, labor, secession, drugs, and money fill the scholarly journals, but these reductions bring this research to you in a format that is designed to persuade everyone.
 
@@ -45,11 +45,11 @@ First hardcover edition published in 2006 by Libertas Publishing, Bucharest, Rom
 First English edition © 2010 by the Ludwig von Mises Institute and published under the Creative Commons Attribution License 3.0. http://creativecommons.org/licenses/by/3.0/
 
 > Ludwig von Mises Institute
-> 
+>
 > 518 West Magnolia Avenue
-> 
+>
 > Auburn, Alabama 36832
-> 
+>
 > mises.org
 
 ISBN: 978-1-933550-91-6
