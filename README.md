@@ -1,6 +1,6 @@
 # Translation for Building Blocks Liberty
 
-Source of the Book: 
+Having the multi-language support, this repo will host both original English book and my translation.
 
 ## How the translation proceed
 
@@ -15,4 +15,10 @@ I grabbed the original copy chapter by chapter, and then gradually translate the
 
 ```
 hugo server --minify --theme book
+```
+
+Publish
+
+```
+hugo -t book
 ```

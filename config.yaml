@@ -1,14 +1,36 @@
 baseURL: "https://raviwu.github.io"
-
-title: Building Blocks Liberty
 languageCode: zh-tw
 defaultContentLanguage: zh
+title: "LW Studio"
 theme: hugo-book
-
-author: Ravi L.W. Wu
 copyright: CC-BY-4.0
-
 publishDir: docs
+enableGitInfo: true
+disableKinds:
+  - 'taxonomy'
+  - 'taxonomyTerm'
+
+menu:
+  # before: []
+  after:
+    - name: "------"
+      weight: 10
+    - name: "LW Studio"
+      url: "http://lwstudio.org"
+      weight: 20
+    - name: "Hugo Themes"
+      url: "https://themes.gohugo.io/hugo-book/"
+      weight: 30
+
+languages:
+  zh:
+    languageName: Chinese
+    author: 吳莉瑋
+    weight: 1
+  en:
+    languageName: English
+    author: Ravi L.W. Wu
+    weight: 2
 
 disablePathToLower: true
 enableGitInfo: true
@@ -21,39 +43,9 @@ markup:
   tableOfContents:
     startLevel: 1
 
-languages:
-  en:
-    languageName: English
-    contentDir: content
-    weight: 1
-  zh:
-    languageName: Chinese
-    contentDir: content.zh
-    weight: 2
-
-menu:
-  # before: []
-  after:
-    - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
-      weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
-      weight: 20
-
 params:
-  # (Optional, default light) Sets color theme: light, dark or auto.
-  # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme: "light"
-
-  # (Optional, default true) Controls table of contents visibility on right side of pages.
-  # Start and end levels can be controlled with markup.tableOfContents setting.
-  # You can also specify this parameter per page in front matter.
-  BookToC: true
-
-  # (Optional, default none) Set the path to a logo for the book. If the logo is
-  # /static/logo.png then the path would be logo.png
-  # BookLogo: /logo.png
+  BookTheme: dark
+  BookLogo: /LW_Studio_BloggerLogo.png
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
@@ -62,11 +54,11 @@ params:
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: docs
+  # BookSection: docs
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/alex-shpak/hugo-book
+  # BookRepo: https://github.com/alex-shpak/hugo-book
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -78,7 +70,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/main/exampleSite
+  # BookEditPath: edit/main/exampleSite
 
   # Configure the date format used on the pages
   # - In git information
@@ -94,7 +86,7 @@ params:
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments: true
+  BookComments: false
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
