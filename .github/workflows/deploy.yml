@@ -29,7 +29,7 @@ jobs:
            extended: true
 
        - name: build content to public site
-         run: hugo --minify --gc
+         run: hugo --minify --gc -t book
 
        - name: deploy and publish updates
          run: |
