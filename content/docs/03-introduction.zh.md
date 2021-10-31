@@ -1,17 +1,17 @@
 ---
-title: "Introduction"
+title: "介紹"
 weight: 30
 ---
 
-# Introduction
+# 介紹
 
-This book Building Blocks for Liberty: Critical Essays by Walter Block is dedicated to the notion that libertarianism is not only a political economic philosophy that is powerful and insightful, but it is also unique; it is neither of the right nor of the left (Walter Block, “Libertarianism is Unique; It Belongs Neither to the Right Nor the Left; A Critique of the Views of Long, Holcombe, and Baden on the left, Hoppe, Feser and Paul on the right,” Journal of Libertarian Studies, 2010).
+這本《自由的基石：Walter Block 的重要著作》，彰顯了自由意志主義不只是有力且睿智的政治經濟哲學。自由意志主義很獨特，它不左也不右。[^1]
 
-According to the view of most people, conservatism, or the right-wing philosophy champions economic liberty, but not personal freedom. And, similarly, socialism, or the left-wing perspective, favors personal liberty, but not that pertaining to buying and selling, trading, and other commercial endeavors.
+在大多數人看來，保守主義或右翼哲學支持經濟自由，但不支持個人自由。而社會主義或左翼觀點支持個人自由，但左翼的個人自由與買賣、貿易和商業活動無關。
 
-Neither of these claims is exactly true. The adherence to the principles of free enterprise of Republicans on the right is easy to exaggerate. Many of them favor free trade, except when an industry they favor is facing foreign competition. At the time of this writing, President Bush is snarling at the oil industry for of all things price gouging; it is difficult to reconcile this with any adherence to a free economy. Similarly, Democrats on the left supposedly favor keeping the state out of the bedroom and the bathroom, but when they are in power, drugs, prostitution and pornography are virtually always illegal.
+這兩種說法都不完全正確。右翼共和黨人對自由企業原則的堅持很容易被誇大。他們中的許多人贊成自由貿易，但面臨外國競爭的產業除外。撰寫本文時，布希總統正在大力插手石油產業的價格，這很難與堅持自由經濟相協調。同樣的，左翼的民主黨人號稱國家的手不該深入家庭深處，但當他們掌權時，毒品、賣淫和色情製品總是非法的。
 
-However, there is enough of a grain of truth in the standard view to make its inversion even more ludicrous. That is, it is just plain silly to assert that leftists favor economic freedom and rightists defend personal liberties. If anything is clear, it is that neither at all defends the freedom popularly ascribed to the opposite perspective. A socialist favoring free markets is as much of a contradiction in terms as a conservative who looks with favor upon liberties of the individual to ingest into his body what he pleases, or to do with his body anything other adults will permit him to do.
+然而，這樣的標準解讀某種程度上還有些理由，如果講反的話就只剩可笑。也就是說，斷言左派支持經濟自由而右派捍衛個人自由，只有愚蠢兩個字。如果有什麼是清楚的，那就是，兩者在根本上都不捍衛由相反意見方所提出的自由。支持自由市場的社會主義者和支持個人使用身體之自由的保守派，都是自相矛盾。
 
 Nozick (1974, p. 163) put his finger squarely on the matter when he characterized libertarianism as favoring “capitalist acts between consenting adults.” Here, in one fell swoop, this author exposes the weaknesses of both sides. The leftists, at least according to the received doctrine, are in favor of legalizing anything between consenting adults; similarly, the rightists are supposed to support capitalism. Neither really does. Certainly, no mainstream view is compatible with both kinds of freedom.
 
@@ -30,3 +30,5 @@ Do people have a right to discriminate on the basis of race, or sex, or sexual p
 Section three constitutes a short but very important contribution to libertarian theory. It is addressed to the very language in which we make our case for liberty. If we are constrained in this regard by considerations of political correctness, if we cannot use words fully, freely and correctly, then it will become difficult or even impossible to even articulate the libertarian message. The enemies of freedom have done yeoman work in eliminating crucial words from the “accepted” vocabulary. Even libertarians who ought to know better are in thrall to these linguistic conventions, and have thereby been weakened in their attempts to defend this philosophy. Words under dispute include: ms., developing countries, rent-seeking, social justice, tax subsidies, property rights, filthy rich, privileged, unearned income, freeman, ultra, profiteer, book burning, stakeholder, get something for nothing, free rider, fair trade, opportunistic, red states, blue states, liberal, and, last but certainly not least, libertarian.
 
 > Walter Block
+
+[^1]: Walter Block, “Libertarianism is Unique; It Belongs Neither to the Right Nor the Left; A Critique of the Views of Long, Holcombe, and Baden on the left, Hoppe, Feser and Paul on the right,” Journal of Libertarian Studies, 2010
