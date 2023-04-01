@@ -17,26 +17,17 @@ This makes our quest at once more difficult and easier too. It is now simplicity
 
 But there is no way out of this contradiction. The gold standard advocate means no more by this term than “free market money.” The proof of this is in his warm embrace of any other metal (or commodity) which comes to be used as the money medium in the absence of any government compulsion. To be fair to the critics, however, we now turn to a careful consideration of their several objections to our thesis. We do not take up those emanating from Marxists, Keynesians, or other self-avowed enemies of economic freedom. Rather, we look at the critiques penned by scholars who are associated with this very same perspective. And not only are the four scholars mentioned above associated with it: they are seen by all and sundry as leading advocates, as foremost spokesmen, for economic liberty. All the more disappointing, then, that all four have rejected the market’s choice in this regard, in favor of a panoply of idiosyncratic interventionist monetary schemes.
 
-
-
-
-
 Milton Friedman
-
 
 Friedman (1960, p. 4) starts out on a high note, fully justifying his leadership role in this field. He states:
 
 	The (classical) liberal is suspicious of assigning to government any functions that can be performed through the market, both because this substitutes coercion for voluntary cooperation, in the area in question and because, by giving government an increased role, it threatens freedom in other areas. Control over monetary and banking arrangements is a particularly dangerous power to entrust to government because of its far-reaching effects on economic activity at large—as numerous episodes from ancient times to the present and over the whole of the globe tragically demonstrate. [Emphasis added]
-
-
 
 After ringing this glowing endorsement for monetary freedom, one could almost infer that he favors the gold standard. After all, he extols the virtues of the market and of free competition, and as we know, it was through this very process that gold “beat out” all other competitors. He forthrightly distinguishes between voluntary cooperation and coercion,3 and this, too, implies the gold standard, the only monetary system which arose through the voluntary cooperation of the market.4 Not content with merely a theoretical account of the virtues of the gold standard, Friedman seemingly buttresses his case with an empirical historical note, attesting to the tragic history of governmental (e.g., nongold standard) control. What more could be said on behalf of gold in so short a statement? Nothing at all.
 
 In the event, however, we are sadly disappointed. For after so promising a beginning, our reasonable expectations that this is just the preliminary to a clarion call for market money is dashed to pieces. Says Friedman (1962, p. 40):
 
 	The fundamental defect of a commodity standard (read gold standard) from the point of view of the society as a whole, is that it requires the use of real resources to add to the stock of money. People must work hard to dig gold out of the ground in South Africa—in order to rebury it in Fort Knox or some similar place. The necessity of using real resources for the operation of a commodity standard establishes a strong incentive for people to find ways to achieve the same result without employing these resources. If people will accept as money pieces of paper on which is printed “I promise to pay ___ units of the commodity standard,” these pieces of paper can perform the same function as the physical pieces of gold or silver, and they require very much less in resources to produce. [Emphasis added]
-
-
 
 This is very disappointing, to say the least. The argument as presented here in the two quotes above amounts to the following syllogism:
 
@@ -45,8 +36,6 @@ This is very disappointing, to say the least. The argument as presented here in 
 	a realization that this freedom will cost real resources
 
 	the conclusion that we should not indulge in such freedom after all, since it costs something; instead, there is an option made on behalf of coercion, and we are, in effect, told to forget all about “substituting voluntary cooperation for coercion.”
-
-
 
 Let us assume for a moment, with Friedman, that freedom costs real resources, at least in the monetary field. This still does not logically imply anything like (3) the conclusion of his argument. For there are very different alternative resolutions of these propositions, which make at least as much sense as his own. For example, what about “justice though the heavens fall?” What has become of “our lives, our fortunes, and our sacred honor?” And where has gone “millions for defense, not a penny for tribute?” These, too, are equally valid as conclusions of the Friedmanite premises. That he has not taken up any of them is irrelevant to his skills as a positive economist, but speaks volumes in terms of his ranking of the importance of premises (1) and (2).
 
