@@ -15,113 +15,113 @@ weight: 42
 
 ## 自由意志主義
 
-Libertarianism is the political philosophy which would be beloved of the Occam of Occam’s razor. It states, simply, that the one proscribed act is the use or the threat of force against a person or his legitimately held property. Property can justly be attained, first, through homesteading hitherto unowned property, and, second, through any noninvasive act such as trade or a gift (Spooner 1966; Rothbard 1970, 1978, 1982; Tannehill and Tannehill 1970; Woolridge 1970; Nozick 1974; Oppenheimer 1975; Machan 1982 1990; Benson 1989; Hoppe 1989, 1993; Block 1976, 1994; McGee 1991; Boaz 1997; Murray 1997). All the rest is elaboration, explication, implication, clarification and justification.
+古今中外的自由意志主義就如同Occam的剃刀般簡潔。它只規定一件事，即不得使用或威脅使用武力來侵犯一個人或他合法擁有的財產。財產可以通過兩種方式合法獲得，一是佔用不曾有過主人的物品，二是透過貿易或贈與等不涉及侵害的行為（Spooner 1966; Rothbard 1970, 1978, 1982; Tannehill and Tannehill 1970; Woolridge 1970; Nozick 1974; Oppenheimer 1975; Machan 1982 1990; Benson 1989; Hoppe 1989, 1993; Block 1976, 1994; McGee 1991; Boaz 1997; Murray 1997）。除此之外的所有內容，都是在解釋、澄清、語義和證明。
 
-What is the libertarian position on the second amendment to the U.S. Constitution? At first blush, this philosophy is not compatible with any gun control legislation at all, since the mere ownership and possession of a rifle or pistol do not constitute an uninvited border crossing, or invasive violence. Nor do they even amount to a threat, for surely we must distinguish between the case of brandishing a weapon in a bellicose manner, on the one hand, and, on the other, with keeping one locked up in a drawer at home or in an auto, or with peaceably walking around with one safely holstered at the hip or even concealed, as in a shoulder harness. The former act violates the nonaggression axiom, while the latter two do not. Yes, there is a potential danger involved in private gun ownership and use,[^3] but if we were to prohibit all such occurrences, we would have to ban autos, knives, scissors, letter openers, arms (for boxers) and legs (for karatekas), etc.
+自由意志主義者對美國憲法中第二修正案持什麼立場？乍看之下，這種哲學與任何槍支管制立法都不相容，因為光擁有和持有來福槍或手槍，並不構成不請自來的越線或侵略性暴力，它們甚至不構成威脅。我們必須區分不同的情況，一是強行展示武器，一是將武器鎖在家中抽屜、車上或在屁股口袋甚至藏在肩帶中。前者違反了非侵略原則，而後者則沒有。是的，私人擁有與使用槍支存在潛在危險[^3]，但如果我們禁止所有這樣的事件，我們就必須禁止汽車、刀具、剪刀、拆信刀、拳擊手的手臂和空手道家的腿等。
 
-Then there is the slippery slope objection; that if a pistol is not a rights violator per se, then neither is a rifle, a machine gun, a bazooka, a howitzer, a tank, a battleship, a jet fighter plane; nor, for that matter, a nuclear bomb.
+然後還有滑坡反對意見：如果手槍本身並不是侵犯權利的物品，那麼步槍、機槍、火箭炮、榴彈炮、坦克、戰艦、噴射戰鬥機，甚至核彈也不是。
 
-The libertarian response to this is predicated upon the issue of whether it is possible to use these weapons in a purely defensive manner; if so, there can be no objection to them per se. Consider a bazooka, for example. Can the power of this implement be confined to those at whom it is aimed? Yes. Therefore it can be used purely for purposes of self-defense, and its possession is not an ipso facto violation of the libertarian code. If it is not possible to limit, to its intended targets, the physical harm created by a weapon but, rather, this must necessarily spill over onto innocent parties, then such an implement must be eliminated from legitimate arsenals. When viewed in this manner, it is clear that all of the weapons mentioned above, except for the thermonuclear device, do allow for pinpointing,[^4] namely for confining their destructive power to the “bad guys.” Therefore, it would be licit to own any of the former, but not the latter.[^5]
+對此，古典自由意志主義者的回應，是持有人能否單純以防禦角度使用這些武器，如果能夠純粹用來防禦的話，就不能因為反對它們。以火箭炮為例。這種武器的力量能夠限制只對瞄準對象造成傷害嗎？可以。因此，它可以純粹用於自衛目的，擁有它不違背古典自由主義的戒律。如果無法將武器造成的物理傷害限制在預期目標上則必然波及無辜群眾，那就必須從合法的軍械庫中淘汰這種武器。從這個角度來看，除了熱核裝置之外，以上提到的所有武器都可以找到方式[^4]，將其破壞力限制在「壞人」身上。因此，擁有前面的任何一種都是合法的，但擁有後者則不是。[^5]
 
-This, then, is a fair summary of the consensus libertarian position on gun control, as it now exists. However, it is subject to criticism, when we take a wider perspective. Contemplate the possibility of meteors causing great damage to the Earth, and being blown up, defensively, by nuclear power, as in the movie Armageddon, or alien creatures attacking us, as in the book by Robert Heinlein (1959), Starship Troopers, and the movie of the same name. In this astronomical context, not limited to the Earth, the hydrogen bomb, or even many of them all together, can be used purely defensively, or appropriately, e.g., to blow up a meteor before it hits us, or to kill giant enemy alien bugs on distant planets, who have already attacked us.[^6]
+坦白說，這就是當今自由意志主義者對槍支管制提出的共同立場。然而，當我們從更廣泛的角度去看待此議題時，它就會面對批評。想像一下隕石對地球造成嚴重損害，然後利用核能源爆炸方式做出防禦，就像電影《世界末日》中一樣。或者像 Robert Heinlein (1959) 的小說《星艦士兵》及同名電影中的那樣，外星生物侵襲地球。在這種不限於地球的天文背景下，氫彈，甚至是許多氫彈合在一起也可以被純粹用來防禦，或是正當地被使用：例如在隕石撞擊地球前引爆氫彈，或者是在攻擊我們的遙遠星球上殺死巨型敵人外星蟲。[^6]
 
-What, then, is the libertarian response to the critic who offers the specter of the nuclear weapon in someone’s basement, located in the midst of a large city? This attempt at a reductio ad absurdum could perhaps have been defeated when the context was limited to the Earth; here, at least by supposition, it is impossible to detonate an atom bomb without violating the rights of at least one other person.[^7]
+那麼，自由意志主義者對於那些持反對意見者提出的居住區核武憂慮，該做出什麼回應呢？這種簡化論證的嘗試，或許在考慮地球的情況下就已能被打破；然而，在這種情況下，由於炸彈引爆後至少會侵犯到一個人的權利，所以這種情況是不可能發生的。[^7]
 
-However, where extraterrestrial beings or meteors are concerned, the hydrogen bomb cannot be banned as intrinsically invasive. Now, it has, or at least can have, a defensive purpose. However, the idea of a Jeff Dahmer or a Ted Kaczynski in charge of one in a large city must give even a fanatical libertarian pause for thought. This is even more problematic given that the ability and knowledge needed for constructing these items are widely dispersed, and the cost of the raw materials, while expensive, is not prohibitive.
+然而，當與外星生物或隕石有關時，氫彈就不能因為自身的侵略性而被禁止。因為在這個脈絡當下，氫彈具有防禦目的或至少可被用作防禦。然而，讓一個像 Jeff Dahmer 或 Ted Kaczynski 那樣的人來管理氫彈，即使是極端自由意志主義者也會稍做考慮。這個問題在製造這類物品所需技能與知識被廣泛散播，且材料雖貴但不是無法到手的情況下，更為棘手。
 
-One possible answer to this conundrum is that the libertarian stance (nukes are prohibited because they are necessarily invasive) is quite sufficient for any reasonable scenario concerning the Earth; that meteors and unfriendly bug-eyed aliens, etc. are the stuff of science fiction, not reality; and that libertarianism can only concern itself with the former, not the latter. This perspective offers the following possible response:
+這個矛盾的可能解釋之一，是自由意志主義針對核武被禁止是因為具有必然入侵性的立場，對任何在地球範圍內的合理情況都足夠了。彗星、敵對外星人等都是科幻小說的東西，不是現實情況，自由意志主義僅關心前者而不是後者。這個角度也提供了接下來的回應：
 
-> If the Earth were such a place as to be repeatedly threatened with meteors, our principles governing the legitimacy of nuclear weapons would be quite different. In our world, the view that such bombs are necessarily invasive, and hence should be prohibited, is the strongest. In another universe, it might be weaker. Another way of putting this point is that in the hypothetical world of Armageddon a nuclear weapon is not entirely and wholly offensive but serves a legitimate role in (planetary) self-defense.
+> 如果地球被彗星不斷威脅，我們對核武的合法性原則會完全不同。在我們的世界裡，認為這些核武有絕對入侵性而應該被禁止的觀點較強，在另一個宇宙中則會可能弱一些。換句話說，在世界末日的假想世界中，核武器不全然是攻擊性，而在（全球）自我防禦中發揮了合法作用。
 
-The difficulty with this reply is that, at least ideally, libertarianism ought to be applicable as widely as possible: to all times, and to all places; to all possible universes. To the extent that this is not the case, this philosophy has less generalizability, and hence less validity than otherwise.
+這個回應的難處在於，自由意志主義至少在理想狀態下應該盡可能廣泛地應用：適用不同時間、地點、所有可能的宇宙。如果事實不是這樣，哲學的普遍性和有效性就會降低。
 
-Fortunately, however, there is a better defense available. The only way the nuclear bomb can be used defensively is for off-world activity.[^8] Therefore, at the very least, the would-be stockpiler of this weapon must have at his disposal the wherewithal to launch it at an enemy planet or on-rushing meteor. Since rocketry of this sort costs billions of dollars, this consideration ought to be sufficient to preclude the specter of a nuclear device in numerous basements or attics.[^9]
+幸運的是，我們現在有更好地辯護論點的方法。核武只在外太空活動中才被用作防禦武器。[^8] 因此，擁有核器的人必須具備發射武器來攻擊敵方星球或接近地球的流星的能力。這種技術成本數十億美元，因此這個問題足以避免許多地下室或閣樓中擁有核武的現象。[^9]
 
-Let us reiterate. Libertarianism is in opposition to the prohibition of ordinary weapons since they do not per se violate its basic premise of nonaggression. When we focus only on earthly concerns, this philosophy favors the ban on nuclear weapons; since it is not possible to confine their force, their use must necessarily violate the libertarian axiom. However, when we incorporate the entire universe into our analysis, and science fiction considerations as well, then nukes cannot be banned, since a defensive purpose for them exists.
+再次強調，自由意志主義反對禁止一般的武器，因為一般武器本身不違反「非侵略原則」這個基本原則。當我們只關注地球問題時，自由意志哲學支持禁核武；因為無法限制它們的力量，核武的使用必然違反自由主義原則。然而，當我們將整個宇宙以及科幻情節納入分析時，核彈就不能被禁止，因為它們有防禦用途。
 
-## Proportionality
+## 比例主義
 
-These considerations give rise to what might be called a geographical, spatial or proportionality thesis. We claim that there is an inverse relationship between population density and the power of a weapon that will be considered legitimate under libertarian law. Population density in the entire universe is extremely small, so armaments of mass destruction are legitimate in this context. On Earth, population density is relatively far higher; therefore, small arms would be allowed, but not atom bombs or worse. The key to legitimacy in both cases is the ability to pinpoint or limit destructive power. Other things equal, it is easier to do this, the lower the population density; hence the proportionality thesis.
+這些考量引發了一個可稱為地理、空間或比例主義的命題。我們聲稱，在古典自由意志主義法則下，人口密度與被允許持有的武器之間存在著反比關係。宇宙中的人口密度非常小，大規模武器是合法的；地球上的人口密度相對高得多，因此只允許小型武器，不允許使用原子彈或更具規模的武器。兩種情況下，合法性的關鍵是能夠定位或限制武器的破壞力。其他條件相同時，人口密度越低，就越容易限制武器破壞力；因此產生了比例主義。
 
-Perhaps this point can be more easily made by use of a series of examples of decreasing population density. In the context of the entire universe, a person can own just about as many hydrogen bombs as desired since, given this vast arena, it is certainly possible for them all to be used defensively. Suppose that Jupiter were inhabited by only 1,000 people, evenly spaced throughout the planet. Here, it would appear reasonable for each of them to own the proverbial atom bomb, and keep it in their basements if they wished. Given the low population density involved, this device would no longer constitute a reductio ad absurdum of the libertarian position, for the explosive power, even including the fallout, could easily be confined to the enemy, or to the owner of the territory himself, thus not imposing any negative effects on innocent third parties. Since defensive use would thus be possible, there would be no necessary violation of the libertarian postulate. The next level down in population density might be places on Earth such as the Sahara, or Antarctica. There might be no libertarian justification for owning an atom bomb with fallout even in relatively empty areas such as these, for detonation would affect at least a few innocent people. However, one could, conceivably, own a “clean” atom bomb or a large amount of TNT in such deserted areas, but not in a more crowded venue.[^10]
+也許透過一系列人口密度逐漸減少的例子，有助於理解這點。就整個宇宙而言，一個人可以擁有任意數量的氫彈，因為在這個寬廣的領域中，以防禦為目的去利用它們是可能的。假設木星只有 1,000 人居住，而這些人均勻分布在整個星球上。在這種情況下，每個人擁有一枚放在地下室的原子彈似乎是合理的。由於涉及的人口密度較低，即使核爆後果的破壞力也可以輕易地被限制在敵人身上，因此這種裝置不再構成古典自由意志主義立場的論證，不會對無辜的第三方產生負面影響。由於存在防禦性使用的可能性，因此不存在古典自由主義原則的違反。低人口密度的下一個層級可能是地球上像撒哈拉或南極洲這樣的地方，在這些相對空曠的地區中，可能也沒有擁有核彈的古典自由主義正當理由，因為爆炸會影響到幾個無辜的人。但在這種荒涼的地方，人們可以想像擁有一枚低污染核彈或大量 TNT，但在人口密集的地方則難以想像。[^10]
 
-The proportionality thesis can be illustrated by use of a graph (Figure 1). On the y axis we plot the power of the weapon, with the hydrogen bomb at the top and fingernails at the bottom. On the x axis there is population density, with space the least populated and cities the most highly inhabited.
+比例主義論題可以通過圖表（圖 1 ）來說明。Y 軸表示武器的威力，氫彈最高，指甲最低。X 軸為人口密度，空曠地區人口少，城市人口多。
 
-The relationship between these two could be depicted by any downward-sloping curve; this would indicate that the more crowded the situation, the less powerful the weapon that would pass muster under this libertarian criterion. If power and population density could be meaningfully integrated with one another (which is not being claimed here), the implication is that the downward-sloping curve would be a rectangular hyperbola, to indicate that the total of the two variables, when multiplied together, would yield the same sum, namely the amount of “force times population density” which would be on the dividing line between legitimacy and illegitimacy.
+兩者之間的關係可用任何向下傾斜的曲線來描述；這表是越擁擠的情況下，符合古典自由主義標準的武器威力越小。如果威力和人口密度可以有意義地相互結合（這裡並沒有聲稱絕對如此），暗示了這條向下傾斜的曲線是矩形雙曲線，表示兩個變量相乘將產生相同的總和，即「威力乘以人口密度」的結果將位於合法和非法之間的分界線上。
 
-What of “cpb?” Depicted in this realm of the x axis is a world so crowded it would resemble a “crowded phone booth.” What would be proper gun control policy under these extreme Malthusian assumptions? Again, contrary to what we have been calling traditional libertarian theory, the proportionality thesis yields a very different implication, namely the prohibition of firearms. However, the difference here is only with the conclusions that have previously been drawn on this topic, not with the underlying libertarian principle itself. In other words, we are putting forward the claim that proportionality theory leads to a more plumb-line libertarian position than previously achieved. That is because, paradoxically, it is more consistent with the premise that as long as a weapon’s power can be confined to evildoers, that is, its purpose can be limited to defense against aggression, it is not per se invasive and thus must be legitimate.
+「cpb」是什麼意思？在這個 X 軸上的度量衡中，人口密集到像是「擠滿人的公用電話亭（crowded phone booth）」。在這些極端的 Malthusian 假設下，什麼是適當的槍支管制政策呢？出乎意料地與我們認為的傳統自由主義理論相反，比例主義產生了非常不同的含意，也就是禁止槍支。然而，這裡的差異在於先前對這個問題得出的結論，而不在於自由主義原則本身。換句話說，我們提出了一個主張，即比例主義造就比以前更符合自由主義基本立場的結論。矛盾的是，這是因為它更符合前提，只要武器的力量可以被限制在只影響壞人，其目的可以被限制為防禦，那麼它就不是本質上具侵略性，因此必須是合法的。
 
-![Figure 1](/images/figure-1.png)
-Figure 1. The relation between geographical size and type of legal weaponry.
+![圖 1](/images/figure-1.png)
+圖 1。地理大小和合法武器類型之間的關係。
 
-However, in the hypercrowded world,[^11] not even a pistol, perhaps not even a knife, can possibly be used without impacting innocent people. If so, then it may be banned just as today we properly prohibit ownership of nukes in cities.
+然而，在過於擁擠的世界中[^11]，不只一把手槍，甚至是一把刀，都不可能在不影響無辜者的情況下使用。如果是這樣，那麼它可能會像今天我們在城市中禁止擁有核彈一樣被禁止。
 
-This new way of looking at the matter leads to new conclusions only at both ends of the population density continuum. At the low end, extensive space, it allows ownership of thermonuclear devices, when traditional libertarian theory would not. At the high end, the “crowded telephone booth” kind of world, it prohibits guns and knives, when traditional libertarian theory would legitimize these weapons. These changes are not the result of an alteration of libertarian theory; this remains the same. The different conclusions stem solely from very different assumptions about the world (or universe).
+這個新觀點只會在人口密度極低或極高的兩端得出結論。在低端廣闊的空間中允許擁有熱核裝置，傳統的自由主義理論則不會允許。在高端「擁擠電話亭」的世界中禁止槍支和刀具，而傳統自由主義理論會認為這些武器是合法的。這些改變並非來自自由主義理論的改變，自由主義理論本身並未變化。不同的結論源自對世界（或宇宙）不同的假設。
 
-## Objections
+## 反對意見
 
-In closing, let us consider the objection to banning made by the person who wishes to possess a hydrogen bomb not for purposes of violence, but rather for contemplation, or for aesthetic or scientific reasons, or as a museum piece, etc. One answer is that the “artiste” could indeed locate a nuclear bomb in his city basement, but only the outer contours of it, that is, the shell casing alone, not the nuclear device. This ought to suffice for sheer artistic contemplation.
+最後，讓我們檢視一下其他反對禁止氫彈的意見，這些人不是為了暴力而想擁有氫彈，而是出於沉思、美學、科學，或作為博物館藏品等原因。有一種回答是「藝術家」可以將核彈收在他位於的城市地下室，但只有外部輪廓，也就是只有外殼不是真的核裝置。這應該足夠進行單純的藝術沉思。
 
-Suppose, however, that this will not create the necessary artistic “jolt.” For that, only an armed device will do. Too bad, from the libertarian perspective. It is impossible to confine the harm done by such a weapon to the owner himself, or to a “bad guy.”
+然而，假設這不會產生預期中的藝術「震撼」，只有真的武器的裝置才能創造震撼。從自由主義者的角度來看，這太糟糕了，因為無法將這個武器造成的傷害局限於擁有者本人或一個「壞人」。
 
-In contrast, were a nuclear power station to blow up, its negative power could not be so confined either, and yet this is legitimate under libertarian law. What is the difference? The difference is that the one is a weapon, the other not. Were we to ban all appliances whose power, under the worst possible scenario, could not be confined to the appropriate people and their holdings, we would have to prohibit all aircraft, and laboratories experimenting with deadly viruses, etc. This applies, even, to roofless baseball stadiums (an escaping home-run ball can break a window). The difference between all these others and the “artiste’s” atom bomb is that the former is a weapon, the others not.
+相比之下，如果核電站爆炸，它的負面影響也無法這樣被限制，但在自由主義原則下這是合法的。差別在哪裡？差別在於一個是武器，另一個不是。在最壞的情況下，如果我們需要禁止所有破壞後果無法限制在特定人員及其持有物的裝置，那我們就須禁止所有飛行器和實驗致命病毒的實驗室等所有設備。這甚至適用於沒有蓋頂的棒球場（脫出的全壘打球可能會打破窗戶）。這些和「藝術家」原子彈之間的區別在於核彈是武器，其他不是。
 
-Rothbard (1990, p. 243) adumbrates the principles under which a just determination can be made in this regard:
+Rothbard（1990，243 頁）概述了在這方面可以做出公正決定的原則：
 
-> The basic libertarian principle is that everyone should be allowed to do whatever he is doing unless he is committing an overt act of aggression against someone else. But what about situations where it is unclear whether a person is committing aggression? In those cases, the only procedure consonant with libertarian principle is to do nothing; to lean over backwards to ensure that the judicial agency is not coercing an innocent man.... The presumption of every case... must be that every defendant is innocent until proven guilty, and the burden of proof must rest squarely upon the plaintiff.
+> 基本的自由主義原則是每個人都應該被允許做任何他正在做的事情，除非他正在對其他人進行明顯的攻擊行為。但是對於不清楚某個人是否在進行攻擊行為的情況怎麼辦？在這些情況下，符合自由主義原則的唯一程序是什麼都不做；盡最大努力確保司法機構不會迫使無辜的人⋯⋯每個案件的推定⋯⋯除非被證明有罪，否則每個被告人都是無罪的，而且舉證責任必須完全落在原告身上。
 
-So far, it sounds as if Rothbard is taking the side of the “artiste” who wishes to maintain for contemplative purposes an armed thermonuclear device in the basement of his home, located in the big city. However, this is merely a first approximation. Given that the burden of proof of criminal behavior is placed with this artiste’s neighbors, how can these plaintiffs acquit their responsibilities?
+到目前為止，Rothbard 似乎傾向支持希望能以沈思目的在空曠地區的自家地下室放核彈的「藝術家」。但這只是第一個猜想。犯罪行為的證明責任歸屬於藝術家的鄰居，這些原告如何履行他們的責任？
 
-> States Rothbard (1990, p. 244):
+> Rothbard（1990，244 頁）指出：
 >
-> ... the best standard for any proof of guilt is the one commonly used in criminal cases: proof “beyond a reasonable doubt.” Obviously, some doubt will almost always persist in gauging people’s actions, so that a standard such as “beyond a scintilla of doubt” would be hopelessly unrealistic. But the doubt must remain small enough that any “reasonable man” will be convinced of the defendant’s guilt. Establishing guilt “beyond a reasonable doubt” appears to be the standard most consonant with libertarian principle.[^12]
+> ⋯⋯任何罪行證明的最佳標準是刑事案件常使用的標準：證明需「超出合理的懷疑範圍」。顯然，評估人們的行為時，某些懷疑幾乎總是存在，因此「超出任何懷疑」這樣的標準相當不現實。但是，懷疑必須夠小到讓任何一個「理性人」會相信被告有罪。建立「超出合理懷疑」的有罪定罪標準，似乎是最符合古典自由主義原則的標準。[12]
 
-An obvious rejoinder to this is that it conflicts with the Austrian economic notion of subjectivism (Rothbard 1962, 1973, 1977, 1989; Mises 1966; Buchanan 1969; Buchanan and Thirlby 1981). In this view, great weight is placed upon the subjective perceptions of the individual human actor: a hydrogen bomb may well be merely an object of historical contemplation, at least for some persons. The issue is, do we have to eschew Austrian subjectivism in order to argue, as libertarians, that the hydrogen bomb cannot legitimately be stored in a city art gallery?
+對此論點的明顯反駁是「這與奧地利經濟主觀主義的概念相衝突」（Rothbard 1962, 1973, 1977, 1989; Mises 1966; Buchanan 1969; Buchanan and Thirlby 1981）。這種觀點重視個人的人類行為主觀感知：對於某些人來說氫彈可能只是一個歷史思考的對象。問題是，我們是否必須扭曲奧地利主觀主義，以便作為古典自由主義者，主張氫彈不能合法地存放在城市藝術畫廊？
 
-Not at all, for under the libertarian code, to the extent that we accept the subjective evaluations of people regarding reality (as opposed to the “reasonable man” standard), it is the subjective evaluation of the threatened victim, not the perpetrator, which is determinative.
+不必然，根據古典自由主義者的規範，只要我們接受人們對現實的主觀評估（不是「理性人」標準）的準則，那麽，受威脅的受害者主觀評估才是關鍵，不是施害者的主觀評估。
 
-Suppose A comes rushing at B carrying a knife in the up-thrust position, while yelling “Kill!” in a blood-curdling manner, whereupon B draws his pistol and shoots A dead. Later, it turns out that A was merely an actor, practicing for a part, and that the knife was made of rubber, as are most stage props of that sort. Is B guilty of murder? Not a bit of it. Rather, B would properly be judged to have done no more than exercise his right of self-defense. Even the reasonable man would have so concluded.
+假設 A 拿著一把刀，舉高衝向 B 同時用嗜血的方式喊「殺！」，隨後 B 拔出手槍射殺 A。後來證明 A 只是一名演員在練習角色，刀子就像大多數道具一樣是由橡膠製成的。B 有謀殺罪嗎？一點也沒有。相反的，B 應被判定沒有超過行使自衛權利。即使是「理性人」也會做出一樣結論。
 
-In similar manner, were we to take any subjective considerations into account as a matter of libertarian law, it would not be those of the contemplator of the A bomb; rather, it would be those of his neighbors, who, presumably, take a very different view of this device.
+同樣，如果我們考慮自由主義法律問題時納入主觀因素，那將不是擁有炸彈的深思者為主要考量；相反的，他的鄰居的主觀感受才是關鍵，他們可能對這種裝置持有非常不同的看法。
 
-What, then, of a possible reductio regarding airplanes? Every once in a while these devices crash, killing people on the ground who did not agree to bear this risk, as did the passengers. As we have seen, the victim of the knife attack, not the perpetrator, was allowed to determine the reality of the situation. Why do we not allow such possible victims of airplane crashes to determine if these are invasive weapons (which they are, after the fact, from the perspective of those on the ground upon whom they crash). If such a determination were made, of course, it would spell the end of this industry.
+那麼，飛機的邏輯推論又可能是什麼？這些裝置偶爾會墜毀，殺死乘客與地面上沒有同意承擔不預期風險的人。如我們所見，捅刀案是由受害者而不是犯罪者作為決定情況的關鍵。為什麼我們不允許飛機墜毀的潛在受害者決定飛行器是否為侵入性武器（從地面上被它們墜毀時致傷的人的角度來看，它們確實是）？如果做出這樣的決定，理所當然會結束整個航空產業。
 
-The answer is that no reasonable person would ever come to any such conclusion. Yes, airplanes sometimes crash, but, apart from those used by Japanese kamikaze pilots in World War II, they cannot by any stretch of the imagination be considered as weapons. In contrast, the nuclear weapon located in the same geographical area as millions of innocent people, in any reasonable interpretation, would be understood as an armament, despite all the protestations of the contemplator to the contrary.
+答案是沒有正常人會得出這樣的結論。是的，飛機有時會墜毀，但除了二戰中日本神風特攻隊使用的飛機外，它們在任何想像中都不能被認為是武器。相比之下，位於數百萬無辜人民同一地理區域的核武器，在任何合理的解釋下都會被理解為武器，盡管沈思者有多少辯解。
 
-So far, we have looked at gun control from what we will call a macro-geographical perspective. In order to determine appropriate weapon restrictions, we must know the geographical context at large. If we are talking about the Earth, a “doomsday” thermonuclear device, able to blow up the entire planet and all the people who inhabit it, is per se offensive. Its power cannot possibly be confined to the guilty. Harboring such a weapon is thus an offense, and may properly be prohibited, but not in the vastness of space, an altogether different geographical domain. Similarly, a pistol must be banned from the super-crowded “phone booth” world, because, by stipulation, its offensive power cannot there be limited; in contrast, in our real world, revolvers would be allowed, since they most certainly can be pinpointed.
+到目前為止，我們從宏觀地理角度看待槍支管制。為了確定適當的武器限制，我們必須了解地理環境。如果我們談論地球，能夠摧毀整個星球和居住該星球所有人的「末日」熱核裝置本身就是攻擊性的。它的威力不可能僅限於有罪者。因此，擁有這樣的武器是一種犯罪，可以被禁止，但在浩瀚空間則不是。同樣地，在超級擁擠的「電話亭」世界中，手槍必須被禁止，因為根據規定，它的攻擊力無法在那裡被限制；相反，在現實世界中，左輪手槍是允許的，因為它們肯定可以被精確瞄準。
 
-Now, in conclusion, we look at this issue from what might be called a micro-geographical perspective. Suppose there is a nuclear bomb which is at present able to explode, except for the fact that the trigger is located one mile away from the rest of the apparatus. Should this configuration be precluded by law in our real world, given our libertarian considerations? How about if the distance were 100 yards? Ten feet? One inch? One millimeter?[^13] The problem, of course, is that if the trigger and the remainder of the bomb are very close to each other, the device can explode if someone as much as sneezes. This would tend to incline us to demand a reasonable distance between the constituent elements of a bomb which would, when assembled, be illegitimate. On the other hand, a distance of even one mile can be overcome easily by a determined evildoer. Further complicating the analysis is the fact that, at least nowadays, the different elements of a bomb (e.g., copper, zinc and uranium, etc.) can be assembled without too much difficulty, and if we want to prevent illegal atom bomb holding, we seem to be set on a slippery slope which will outlaw stockpiling all such elements, a manifest absurdity.
+現在，我們從所謂的微觀地理角度來看待這個問題作為結論。假設現在有一個會爆炸的核彈，但是其觸發器與其他組件相距一英里之外。在我們的現實世界中，考慮到我們的古典自由主義立場，這樣的狀態是否應被立法禁止？如果距離是 100 碼？ 10 英尺？ 1 英寸？ 1 毫米？[^13] 問題在於，如果觸發器和炸彈的其餘部分非常接近，那麼只要有人打噴嚏，裝置就可能爆炸。這可能會促使我們要求在組裝後會變成非法的炸彈構件之間保持一定的距離。另一方面，一英里的距離可以被有決心的壞人輕易克服。進一步使分析變得複雜的是，至少現在，炸彈的不同元素（例如銅、鋅和鈾等）可以比較容易地組裝起來，如果我們想要防止非法持有原子彈，似乎就會走向一條滑坡，將禁止儲存所有這類原料。
 
-There is no real solution to this micro-geographical issue, since it is really a continuum problem. How far from B’s nose does A’s fist have to be before B is properly entitled to launch defensive forceful counter-measures? Again, there perhaps is no better answer than relying on context and the opinion of the “reasonable man.” This may not be as satisfying philosophically as a more definitive answer, but, as the problem stems from the (continuous) nature of reality, this is the best answer that can be given.
+這實際上是一個連續問題，這個微觀地理問題沒有真正的解決方案。當 A 的拳頭離 B 的鼻子多遠時，B 才有權發動防禦性的反擊措施？再次強調，也許沒有比依賴上下文和「理性人」的意見更好的答案了。儘管這不如一個明確答案在哲學上那麼令人滿意，但由於問題源於現實的（連續性）本質，因此這是可以給出的最好的答案。
 
 ---
 
-Reprinted with kind permission of Taylor & Francis Group from Ethics, Place and Environment 3, no. 3 (2000): 289–98. Matthew Block graduated with honors from Simon Fraser University in British Columbia, Canada in 2001 with a major in computer science. He is now involved in the software industry, and has several patents in that area. He lives in Redmond, Washington.
+本文經由 Taylor & Francis Group 的同意，轉載自《Ethics, Place and Environment》第 3 期第 3 卷（2000年）289-298 頁。Matthew Block 於 2001 年畢業於加拿大不列顛哥倫比亞省的西蒙菲莎大學，並以電腦科學為主修，畢業時獲得榮譽學位。他現在從事軟體產業，並擁有該領域的數個專利。他居住在華盛頓州雷德蒙德市。
 
-[^1]: There is no implication here that both have acted improperly, only that their actions are fraught with moral implications. Indeed, according to libertarian principles (see below) the latter but not the former has acted in an entirely legitimate manner.
+[^1]: 此處並未隱含兩者都有不當行為，只是指兩者的行為充滿道德意義。事實上，根據自由主義原則（見下文），後者採取了完全合法的行動，不是前者。
 
-[^2]: We owe this citation to an anonymous referee.
+[^2]: 此引用來自匿名審查人員。
 
-[^3]: There is, of course, also a danger in public sector weapon ownership. However, since libertarianism in its pure form does not recognize a difference between the two spheres (there are only private individuals, some of whom illegitimately claim that their relationship with a “government” allows them special privileges not available to their private counterparts), we will not pursue this matter here.
+[^3]: 當然，公共領域擁有武器也是有危險性的。然而，由於純正的自由主義不承認這兩個領域之間的差異（只有私人，其中一些私人非法聲稱他們與「政府」的關係使他們享有私人對手不可得的特權），因此我們不會在這裡深入探討此問題。
 
-[^4]: Some supposedly “smart” missiles have been anything but accurate under recent war-like conditions. Are they therefore illegitimate per se? Certainly, projectiles which cannot be aimed at all, that fall at totally random places in the geographical environment, could not be deemed licit in the libertarian philosophy. However, there is a continuum here. For no weapon at all—not pistols, not rifles, not baseball bats, not knives, not even fingernails—comes with a guarantee of perfect accuracy. Mistakes occur in all these cases. It would be a bit harsh to conclude that no defensive weapon may be used, because all of them are imperfect. In contrast, we are employing a far less restrictive criterion: as long as it is possible to aim a weapon, and thus at least in principle confine its negative impact to malefactors, then there can be no per se objection to such an implement. We thank an anonymous referee for bringing this point to our attention.
+[^4]: 某些「智慧」導彈在最近的戰爭條件下根本不準確，它們本身就不合法的嗎？在自由主義哲學中，完全無法瞄準、隨機地落在地理環境中的飛彈當然不能被認為是合法的。然而，這裡存在著一個連續性。因為沒有任何武器－不管是手槍、步槍、棒球棍、刀子，甚至是指甲－都沒有完美準確度的保證。在所有這些情況下都可能出現失誤。斷定不能使用任何防禦性武器是有點嚴厲的，因為所有武器都是不完美的。相比之下，我們採用了一個更不嚴格的標準：只要有可能瞄準一個武器，並且至少在原則上將其負面影響限制在惡棍身上，那麼對這樣的工具就沒有本質上的反對。我們感謝匿名審稿人將這一點帶到我們的考量中。
 
-[^5]: Libertarianism is a principled theory, not a consequentialist or utilitarian one. “Justice though the heavens fall” is an apt metaphor for this philosophy. Therefore, we are not concerned in this essay with the effects of gun control, only with its justification on pure libertarian grounds. For the utilitarian case against gun control, see Kates (1984, 1986, 1990, 1991, 1992), Kates et al. (1995), Barnett and Kates (1996), Halbrook (1995), Kleck (1991), Kleck and Patterson (1993), Mauser (1992), Mauser and Holmes (1992), Polsby and Kates (1998), Lott (1998), and Lott and Mustard (1997).
+[^5]: 自由主義是一種原則性的理論，而非功利主義或效益主義的理論。「盡管蒼天塌下，也要追求正義」這句話是這個哲學的恰當比喻。因此，在本文中，我們不關心槍支管制的影響，只關心它在純粹的自由主義立場上的正當性。對於反對槍支管制的功利主義論據，請參閱Kates (1984, 1986, 1990, 1991, 1992), Kates et al. (1995), Barnett and Kates (1996), Halbrook (1995), Kleck (1991), Kleck and Patterson (1993), Mauser (1992), Mauser and Holmes (1992), Polsby and Kates (1998), Lott (1998), and Lott and Mustard (1997)。
 
-[^6]: Rothhard (1982, pp. 190–91) has anticipated this point. He writes:
-*while the bow and arrow, and even the rifle, can be pinpointed, if the will be there, against actual criminals, modern nuclear weapons cannot. Here is a crucial difference in kind. Of course, the bow arid arrow could be used for aggressive purposes, but it could also be pinpointed to use only against aggressors. Nuclear weapons, even “conventional” aerial bombs, cannot be. These weapons are ipso facto engines of indiscriminate mass destruction. (The only exception would be the extremely rare case where a mass of people who were all criminals inhabited a vast geographical area.)*
-To this we have now, in effect, added only another exceptional case: where all of the bad guys occupy another planet.
+[^6]: Rothbard (1982, 頁190–91) 已經預見了這一點。他寫道：
+*雖然弓箭甚至步槍都可以根據需要精確瞄準真正的罪犯，但現代核武器則無法。這是一種重要的不同之處。當然，弓箭也可以用於攻擊，但它也可以被定位為僅用於對付攻擊者。核武器，甚至是「常規」空中炸彈，都不能做到這一點。這些武器本質上是不加區分的大規模破壞的工具。（唯一的例外是當一群罪犯居住在一個廣闊的地理區域時。）*
+現在我們只是增加了另外一個例外情況：所有壞人都居住在另一個星球上。
 
-[^7]: On the other hand, if an extremely small “tactical” nuclear weapon were detonated in the Sahara or Nevada deserts, or underground, without rights violation, there would be no justified libertarian prohibition against keeping it in such a place.
+[^7]: 另一方面，如果在撒哈拉沙漠、內華達沙漠或地下引爆了一個極小的「戰術」核武器而沒有侵犯權利，那麼就沒有理由禁止將其存放在這樣的地方。
 
-[^8]: We here abstract from Rothhard’s “extremely rare case” of a “vast geographical area” occupied solely by criminals.
+[^8]: 我們在這裡從 Rothhard’s 的「極其罕見案例」中抽像出一個「廣闊地理區域」完全由犯罪分子佔據。
 
-[^9]: This holds, at least at present. In the far future, of course, it is possible, given that we rely upon free enterprise at such times, that new technology will enable most people to own interplanetary rockets. Then, the specter of too-numerous nuclear capability may once again return to haunt us. However, in such a high-tech world, it might also be that defensive capabilities would be enhanced, rendering this less of a problem.
+[^9]：至少目前是這樣。當然，在遙遠的未來，鑑於我們在這樣的時代依賴自由企業，新技術有可能使大多數人擁有星際火箭。屆時，核能力過多的幽靈可能會再次回來困擾我們。不過，在這樣一個高科技的世界裡，防禦能力也可能會增強，從而減少這個問題。
 
-[^10]: This is the Rothbardian exceptional case scenario, given that regions of this sort are populated only by criminals.
+[^10]：這是 Rothbard 的例外情況，因為這類地區只居住著罪犯。
 
-[^11]: A fictional reference to this assumption is the planet Gideon from the Star Trek episode “The Mark of Gideon.” (We owe this example to Daniel L. Schmutter.) This, like the bug-eyed monster scenario of Starship Troopers, is not put forth as a likely scenario. Rather, as in that case, it is being considered only in order to trace libertarian theory to its ultimate conclusion. For rejoinders to the thesis that we are or are likely to ever become overcrowded, see Bauer (1987), Block (1989a), Block and Coffey (1999), and Simon (1981, 1989, 1990).
+[^11]：對這一假設的虛構引用是星際迷航劇集「基甸的印記」中的行星基甸。（這個例子要歸功於 Daniel L. Schmutter）這與星河戰隊中的長眼怪獸場景一樣，並沒有作為可能的場景提出。相反，就像在那種情況下，它被考慮只是為了追溯自由主義理論的最終結論。對於我們正在或可能會變得過度擁擠這一論點的反駁，請參見 Bauer (1987), Block (1989a), Block and Coffey (1999), and Simon (1981, 1989, 1990)。
 
-[^12]: When it comes to standards of proof, we follow Rothbard in relying upon the “reasonable man” criterion. However, regarding innocence or guilt, we again follow Rothbard in eschewing the “reasonable man” standard in favor of strict liability. On the former, see Rothbard (1990).
+[^12]：在舉證的標準方面，我們跟隨 Rothbard 用「理性人」標準。然而，關於無罪或有罪，我們再次效仿 Rothbard 避開「通情達理的人」標準，支持嚴格責任。關於前者，參見 Rothbard (1990)。
 
-[^13]: A similar consideration applies to the Smith and Wesson and its bullets in the “crowded phone booth” world. How far removed from one another must they be in order to be considered legal?
+[^13]：類似的考慮適用於「擁擠的電話亭」世界中的 Smith and Wesson 及其子彈。為了被認為是合法的，它們必須彼此相距多遠？
