@@ -5,8 +5,6 @@ weight: 46
 
 # 6 Is There a Right To Unionize?
 
-
-
 I resist the notion that we have a “right to unionize” or that unionization is akin, or, worse, an implication of, the right to freely associate. Yes, theoretically, a labor organization could limit itself to organizing a mass quit unless they got what they wanted. That would indeed be an implication of the law of free association.
 
 But every union with which I am familiar reserves the right to employ violence (that is, to initiate violence) against competing workers, e.g., scabs, whether in a “blue collar way” by beating them up, or in a “white collar way” by getting laws passed compelling employers to deal with them, and not with the scabs. (Does anyone know of a counterexample to this? If you know of any, I’d be glad to hear of it. I once thought I had found one: The Christian Labor Association of Canada. But based on an interview with them I can say that while they eschew “blue collar” aggression, they support the “white collar” version).
@@ -29,15 +27,14 @@ Now let us return to labor-management relations. The union objectively threatens
 
 This is similar to the point I made about the pimp in my book Defending the Undefendable: For this purpose, I don’t care if each and every pimp has in fact initiated violence. Nor does it matter if they do it every hour on the hour. This is not a necessary characteristic of being a pimp. Even if there are no nonviolent pimps in existence, we can still imagine one such. Even if all employers always initiated violence against employees, still, we can imagine employers who do not. In very sharp contrast indeed, because of labor legislation they all support, we cannot even imagine unionized labor that does not threaten the initiation of violence.
 
-Murray N. Rothbard was bitterly opposed to unions. This emanated from two sources. First, as a libertarian theoretician, because organized labor necessarily threatens violence.1 Second, based on personal harm suffered at their hands by his family.2
+Murray N. Rothbard was bitterly opposed to unions. This emanated from two sources. First, as a libertarian theoretician, because organized labor necessarily threatens violence.[^1] Second, based on personal harm suffered at their hands by his family.[^2]
 
 We must never succumb to the siren song of union thuggery.
 
-
-
+---
 
 Printed with kind permission of Mr. Llewellyn H. Rockwell, Jr. This article was initially posted on http://www.lewrockwell.com website.
 
-1 See Rothbard (1962, pp. 620–32).
+[^1]: See Rothbard (1962, pp. 620–32).
 
-2 See Raimondo (2000, pp. 59–61).
+[^2]: See Raimondo (2000, pp. 59–61).
