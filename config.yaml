@@ -10,7 +10,6 @@ publishDir: docs
 enableGitInfo: true
 disableKinds:
   - 'taxonomy'
-  - 'taxonomyTerm'
 
 menu:
   # after: []

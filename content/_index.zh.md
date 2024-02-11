@@ -36,7 +36,7 @@ Walter Block 是 Loyola 大學經濟學客座教授、Mises Institute 資深研�
 
 ## 譯者
 
-吳莉瑋 Ravi L.W. Wu 是生活在台北的台灣人。
+吳莉瑋 Ravi L.W. Wu 是生活在台北的台灣人。感謝 Contemporary Mises 這個 GPTs 進行翻譯初稿，省去很多翻譯校稿的時間。
 
 ## 版權聲明
 
