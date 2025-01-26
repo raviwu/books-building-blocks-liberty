@@ -7,33 +7,33 @@ on:
 
 jobs:
   hugo-publish:
-     name: publish content to public site
-     runs-on: ubuntu-latest
-     steps:
-       - name: checkout private repo
-         uses: actions/checkout@v2
-         with:
-           token: ${{ secrets.PUSH_REPO_TOKEN }}
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-       - name: checkout submodules
-         shell: bash
-         run: |
-          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
-          git submodule sync --recursive
-          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
 
-       - name: setup hugo
-         uses: peaceiris/actions-hugo@v2
-         with:
-           hugo-version: latest
-           extended: true
+      - name: Build
+        run: hugo --minify
 
-       - name: build content to public site
-         run: hugo --minify --gc -t hugo-book
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.PUSH_REPO_TOKEN }}
+          publish_dir: ./resources
 
-       - name: Debug - List generated files
-         run: ls -R resources
 
+  update-main:
        - name: Deploy and publish updates
          run: |
            git config --global user.email "action@github.com"
@@ -41,4 +41,4 @@ jobs:
            git checkout -b gh-pages
            git add -f . # Force add all changes
            git commit -m "[chore] Auto publish"
-           git push -u origin gh-pages -f
+          #  git push -u origin gh-pages -f
