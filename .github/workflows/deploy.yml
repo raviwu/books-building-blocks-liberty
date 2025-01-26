@@ -32,7 +32,7 @@ jobs:
          run: hugo --minify --gc -t hugo-book
 
        - name: Debug - List generated files
-         run: ls -R public
+         run: ls -R resources
 
        - name: Deploy and publish updates
          run: |
