@@ -1,6 +1,6 @@
 baseURL: "https://raviwu.github.io/books-building-blocks-liberty/"
-canonifyURLs: false
-relativeURLs: false
+canonifyURLs: true
+relativeURLs: true
 googleAnalytics: UA-34021276-1
 languageCode: zh-tw
 defaultContentLanguage: zh
