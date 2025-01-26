@@ -45,13 +45,6 @@ markup:
   tableOfContents:
     startLevel: 1
 
-module:
-  mounts:
-  - source: assets
-    target: assets
-  - source: static
-    target: assets
-
 params:
   BookTheme: dark
   BookLogo: /books-building-blocks-liberty/LW_Studio_BloggerLogo.png
