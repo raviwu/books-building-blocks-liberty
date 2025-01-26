@@ -6,7 +6,6 @@ on:
     - master
 
 jobs:
-jobs:
   hugo-publish:
     runs-on: ubuntu-latest
     steps:
