@@ -31,10 +31,17 @@ jobs:
        - name: build content to public site
          run: hugo --minify --gc -t hugo-book
 
-       - name: deploy and publish updates
+       - name: Debug: List generated files
+         run: ls -R public
+
+       - name: Deploy and publish updates
          run: |
            git config --local user.email "action@github.com"
            git config --local user.name "GitHub Action"
-           git add . -A
+           cd public
+           git init
+           git remote add origin https://github.com/username/repo.git
+           git checkout -b gh-pages
+           git add -f . # Force add all changes
            git commit -m "[chore] Auto publish"
-           git push -u origin master:gh-pages -f
+           git push -u origin gh-pages -f
