@@ -38,9 +38,6 @@ jobs:
          run: |
            git config --global user.email "action@github.com"
            git config --global user.name "GitHub Action"
-           cd resources
-           git init
-           git remote add origin https://github.com/raviwu/books-building-blocks-liberty.git
            git checkout -b gh-pages
            git add -f . # Force add all changes
            git commit -m "[chore] Auto publish"
