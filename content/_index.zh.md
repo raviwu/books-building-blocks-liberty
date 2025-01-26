@@ -18,7 +18,7 @@ weight: 1
 }
 </style>
 
-<img src="images/cover-en.png" class="image-left" alt="Building Blocks Liberty"/>
+<img src="{{ 'images/cover-en.png' | relURL }}" class="image-left" alt="Building Blocks Liberty"/>
 
 Walter Block 是人類歷史上最多產和大膽的自由主義思想家之一。本書填補了他的寫作文庫中的重要空白：前衛主題的系列文章。他對道路、教育、勞工、國家分裂、禁藥和貨幣的研究與著作常見於學術期刊，這些研究精簡後，設計成具說服力的形式，呈現在你面前。
 
