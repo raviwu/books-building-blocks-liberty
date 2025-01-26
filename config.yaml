@@ -54,7 +54,7 @@ module:
 
 params:
   BookTheme: dark
-  BookLogo: /LW_Studio_BloggerLogo.png
+  BookLogo: /books-building-blocks-liberty/LW_Studio_BloggerLogo.png
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
