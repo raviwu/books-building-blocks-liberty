@@ -29,11 +29,11 @@ jobs:
           github_token: ${{ secrets.PUSH_REPO_TOKEN }}
           publish_dir: ./resources
 
-       - name: Deploy and publish updates
-         run: |
-           git config --global user.email "action@github.com"
-           git config --global user.name "GitHub Action"
-           git checkout -b gh-pages
-           git add -f . # Force add all changes
-           git commit -m "[chore] Auto publish"
-           git push -u origin gh-pages -f
+      - name: Deploy and publish updates
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git checkout -b gh-pages
+          git add -f . # Force add all changes
+          git commit -m "[chore] Auto publish"
+          git push -u origin gh-pages -f
