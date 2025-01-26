@@ -38,7 +38,7 @@ jobs:
          run: |
            git config --local user.email "action@github.com"
            git config --local user.name "GitHub Action"
-           cd public
+           cd resources
            git init
            git remote add origin https://github.com/username/repo.git
            git checkout -b gh-pages
