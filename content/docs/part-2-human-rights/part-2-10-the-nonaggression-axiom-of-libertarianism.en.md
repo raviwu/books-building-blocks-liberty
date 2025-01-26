@@ -5,8 +5,6 @@ weight: 51
 
 # 10 The Nonaggression Axiom of Libertarianism
 
-
-
 The nonaggression axiom is the lynchpin of the philosophy of libertarianism. It states, simply, that it shall be legal for anyone to do anything he wants, provided only that he not initiate (or threaten) violence against the person or legitimately owned property of another. That is, in the free society, one has the right to manufacture, buy or sell any good or service at any mutually agreeable terms. Thus, there would be no victimless crime prohibitions, price controls, government regulation of the economy, etc.
 
 If the nonaggression axiom is the basic building block of libertarianism, private property rights based on (Lockean and Rothbardian) homesteading principles are the foundation. For if A reaches into B’s pocket, pulls out his wallet and runs away with it, we cannot know that A is the aggressor and B the victim. It may be that A is merely repossessing his own wallet, the one B stole from him yesterday. But given a correct grounding in property rights, the nonaggression axiom is a very powerful tool in the war of ideas. For most individuals believe, and fervently so, that it is wrong to invade other people or their property. Who, after all, favors theft, murder or rape? With this as an entering wedge, libertarians are free to apply this axiom to all of human action, including, radically, to unions, taxes, and even government itself.

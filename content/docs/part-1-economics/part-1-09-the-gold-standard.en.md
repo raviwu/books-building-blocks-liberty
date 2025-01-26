@@ -5,8 +5,6 @@ weight: 49
 
 # 9 The Gold Standard: A Critique of Friedman, Mundell, Hayek and Greenspan from the Free Enterprise Perspective
 
-
-
 This is an essay which takes as its jumping off point the free enterprise system. It then attempts to evaluate the contributions of four distinguished scholars to monetary theory in general, and to an evaluation of the gold standard in particular. I take for granted the general case for markets, competition, economic freedom.1 The four individuals mentioned in the title have been chosen because they are widely believed to be exemplars of this limited government, free market, political philosophy—and are also opponents of the gold standard. It is one of the purposes of the present contribution to test that very proposition. To wit, it is an attempt to see how consistent with their otherwise expressed principles of free enterprise are their contributions to monetary theory.
 
 Which monetary regime is consistent with the free enterprise philosophy? In order to answer that, we must first be clear on what is meant by this political economic theory. Laissez faire capitalism implies economic freedom and private property rights. As long as these are respected, a person may do whatever he wishes; there are no economic regulations, and government is limited to protecting persons and property through courts, armies and police. People are “free to choose” (Friedman and Friedman 1980) within these legal constraints.
@@ -223,69 +221,60 @@ Before calling into question their positions, we must address ourselves to one a
 
 Unfortunately for this thesis, there are indeed economists who have championed the market in other areas, and nonetheless carried through consistently with regard to monetary policy. They have supported it, and not as a theoretical curiosity, but rather as a living, breathing vital aspect of political economy.
 
-
-
+---
 
 Reprinted with kind permission of Emerald from Managerial Finance 25, no. 5 (1999): 15–33.
 
-1 For a defense of this position, see Friedman (1962, 1979); Mises (1966); Rothbard (1962).
+[^1]: For a defense of this position, see Friedman (1962, 1979); Mises (1966); Rothbard (1962).
 
-2 And sometimes to silver, for smaller denominations.
+[^2]: And sometimes to silver, for smaller denominations.
 
-3 The most important distinction in all of political economy, one which, unfortunately, escapes the notice of many commentators in this field.
+[^3]: The most important distinction in all of political economy, one which, unfortunately, escapes the notice of many commentators in this field.
 
-4 See Mises (1981) for the view that fiat currency must arise through coercion.
+[^4]: See Mises (1981) for the view that fiat currency must arise through coercion.
 
-5 This is a phrase paradoxically popularized by Milton Friedman. Paradoxically, in that he refuses to apply it to the field of money.
+[^5]: This is a phrase paradoxically popularized by Milton Friedman. Paradoxically, in that he refuses to apply it to the field of money.
 
-6 We shall challenge this assumption, or stipulation, below.
+[^6]: We shall challenge this assumption, or stipulation, below.
 
-7 The German hyperinflation of the 1920s was perhaps only the most egregious example. See Friedman and Schwartz (1963), Mises (1966), Rothbard (1983), and Hoppe (1993b).
+[^7]: The German hyperinflation of the 1920s was perhaps only the most egregious example. See Friedman and Schwartz (1963), Mises (1966), Rothbard (1983), and Hoppe (1993b).
 
-8 Is our line of reasoning guilty of violating the fallacy of composition? An objection to the thesis adumbrated here might be posed as follows:
+[^8]: Is our line of reasoning guilty of violating the fallacy of composition? An objection to the thesis adumbrated here might be posed as follows: `Yes, yes, you have shown that the gold standard has real benefits as an insurance policy against government monetary profligacy, which has unfortunately characterized the history of virtually all nations. However, that is a matter of macroeconomics. Society as a whole would be better off with a gold standard. But as far as each individual is concerned, he has no such reason to favor the “barbarous relic.” On the contrary, the typical economic actor rationally prefers fiat paper to commodity gold.` The reply is very straightforward. If this charge were true, the market would never have originally migrated to a gold standard. Instead, we would have moved directly to fiat currency.
 
-	Yes, yes, you have shown that the gold standard has real benefits as an insurance policy against government monetary profligacy, which has unfortunately characterized the history of virtually all nations. However, that is a matter of macroeconomics. Society as a whole would be better off with a gold standard. But as far as each individual is concerned, he has no such reason to favor the “barbarous relic.” On the contrary, the typical economic actor rationally prefers fiat paper to commodity gold.
+[^9]: I owe this point to Roger Garrison.
 
+[^10]: True, as a medium of exchange will increase its value over and above what it would have been for purely metallic use (jewelry, dentistry, etc.). But this cannot be used to deny the proposition that vast amounts of the yellow metal will still be dug up and then reburied, whether or not it is used as money. This assumes not only that gold is not used as money, but also that it is not expected in the future to be used for this purpose. Further, it is highly probable that were gold’s “moneyness” to be ended entirely, there would be at least a temporary end to the mining of this metal, as the some 135,000 tonnes now above ground could be used for other purposes. (I owe these latter two points to Lawrence M. Parks.)
 
+[^11]: To be fair to him, it must be conceded that the use of substitutes is compatible with practically any monetary regime. But it cannot be denied that this also applies to gold.
 
-The reply is very straightforward. If this charge were true, the market would never have originally migrated to a gold standard. Instead, we would have moved directly to fiat currency.
+[^12]: True, this also has its political and economic costs, particularly for those who see a connection between the prestige of a country and the value of its currency in foreign exchange markets. These costs, however, are not sharp and painful; they do not constitute a “crisis.”
 
-9 I owe this point to Roger Garrison.
+[^13]: His purpose here was to criticize flexible exchange rates, not the gold standard, but his analysis is nonetheless germane to our present concerns.
 
-10 True, as a medium of exchange will increase its value over and above what it would have been for purely metallic use (jewelry, dentistry, etc.). But this cannot be used to deny the proposition that vast amounts of the yellow metal will still be dug up and then reburied, whether or not it is used as money. This assumes not only that gold is not used as money, but also that it is not expected in the future to be used for this purpose. Further, it is highly probable that were gold’s “moneyness” to be ended entirely, there would be at least a temporary end to the mining of this metal, as the some 135,000 tonnes now above ground could be used for other purposes. (I owe these latter two points to Lawrence M. Parks.)
+[^14]: For a critique of the Keynesian system, see Hazlitt (1959).
 
-11 To be fair to him, it must be conceded that the use of substitutes is compatible with practically any monetary regime. But it cannot be denied that this also applies to gold.
+[^15]: Objections might be leveled at the claim that this is Keynesian and not “monetarist.” Although most debates on this and related topics in the professional literature have been between these two purported schools of thought, nothing of the kind is true. But both monetarists and fiscalists employ the Keynesian model of aggregate demand. Therefore, these controversies are more of an internecine battle than a disagreement between two separate philosophies. As Friedman himself says, “we are all Keynesians now” (cited in Samuelson 1970, p. 193). As it happens, Friedman objects that he has been quoted out of context (personal correspondence). His full statement on this matter as follows: “If by Keynesianism you mean public policy prescriptions of big government budgets, deficit spending, etc., then there are great differences between we monetarists and the Keynesians; but if you mean utilization of the same tools of economic analysis, then we are all Keynesians now” (paraphrase, based on personal conversation). For some purposes, one is inclined to take the Friedman side in his altercation with Samuelson. But for our public policy purposes, the alternative view has its attractions.
 
-12 True, this also has its political and economic costs, particularly for those who see a connection between the prestige of a country and the value of its currency in foreign exchange markets. These costs, however, are not sharp and painful; they do not constitute a “crisis.”
+[^16]: Mundell (1961, p. 662) sees this as a problem, but contents himself with an appeal to “common sense.” One problem with his analysis is that the decision as to how many “regions” there are, and hence how many currencies would be in existence, is not one to be made by the market. Rather, the unspoken implication is that it would be made by Mundell, or a band of economists, or politicians, or perhaps by the entire economics profession. It is likely that if the choice came down to a market or political decision, Mundell would opt for the former.
 
-13 His purpose here was to criticize flexible exchange rates, not the gold standard, but his analysis is nonetheless germane to our present concerns.
+[^17]: States Mundell (1961, p. 660), “the concept of optimum currency areas helps us to see that the conflict... between Meade, who sees the need for more currencies, and Scitovsky, who sees the need for fewer... reduces to an empirical rather than a theoretical question.”
 
-14 For a critique of the Keynesian system, see Hazlitt (1959).
+[^18]: It was for this reason that Friedman penned his famous aphorism, “rules, not authority, in monetary policy” as part of his public policy suggestion that the Fed be limited to increasing the money supply by 3 percent annually. See also Simons (1936).
 
-15 Objections might be leveled at the claim that this is Keynesian and not “monetarist.” Although most debates on this and related topics in the professional literature have been between these two purported schools of thought, nothing of the kind is true. But both monetarists and fiscalists employ the Keynesian model of aggregate demand. Therefore, these controversies are more of an internecine battle than a disagreement between two separate philosophies. As Friedman himself says, “we are all Keynesians now” (cited in Samuelson 1970, p. 193).
+[^19]: See Krueger (1974); Posner (1975); Tullock (1967, 1980).
 
-As it happens, Friedman objects that he has been quoted out of context (personal correspondence). His full statement on this matter as follows: “If by Keynesianism you mean public policy prescriptions of big government budgets, deficit spending, etc., then there are great differences between we monetarists and the Keynesians; but if you mean utilization of the same tools of economic analysis, then we are all Keynesians now” (paraphrase, based on personal conversation). For some purposes, one is inclined to take the Friedman side in his altercation with Samuelson. But for our public policy purposes, the alternative view has its attractions.
+[^20]: It would seem that nothing is free of this particular risk.
 
-16 Mundell (1961, p. 662) sees this as a problem, but contents himself with an appeal to “common sense.” One problem with his analysis is that the decision as to how many “regions” there are, and hence how many currencies would be in existence, is not one to be made by the market. Rather, the unspoken implication is that it would be made by Mundell, or a band of economists, or politicians, or perhaps by the entire economics profession. It is likely that if the choice came down to a market or political decision, Mundell would opt for the former.
+[^21]: See also Hayek (1948).
 
-17 States Mundell (1961, p. 660), “the concept of optimum currency areas helps us to see that the conflict... between Meade, who sees the need for more currencies, and Scitovsky, who sees the need for fewer... reduces to an empirical rather than a theoretical question.”
+[^22]: From time to time gold clauses become legal, as do futures contracts which allow for gold delivery. This complicates the situation somewhat. (I owe this point to Lawrence M. Parks).
 
-18 It was for this reason that Friedman penned his famous aphorism, “rules, not authority, in monetary policy” as part of his public policy suggestion that the Fed be limited to increasing the money supply by 3 percent annually. See also Simons (1936).
+[^23]: For critiques of this theorem, see Patinkin (1965), Anderson (1917), and Ellis (1934); for replies, see Mises (1966, pp. 405–19) and Rothbard (1991).
 
-19 See Krueger (1974); Posner (1975); Tullock (1967, 1980).
+[^24]: This is why early monies typically consisted of salt, or sugar, or dried fish or some such. For a discussion of this process see Menger (1950, pp. 257–85).
 
-20 It would seem that nothing is free of this particular risk.
+[^25]: Radford (1945) tells of cigarettes being used as money in prisoner of war camps.
 
-21 See also Hayek (1948).
+[^26]: Hyperinflations may sometimes be sufficient to wean an economy away from its money, but little else can.
 
-22 From time to time gold clauses become legal, as do futures contracts which allow for gold delivery. This complicates the situation somewhat. (I owe this point to Lawrence M. Parks).
-
-23 For critiques of this theorem, see Patinkin (1965), Anderson (1917), and Ellis (1934); for replies, see Mises (1966, pp. 405–19) and Rothbard (1991).
-
-24 This is why early monies typically consisted of salt, or sugar, or dried fish or some such. For a discussion of this process see Menger (1950, pp. 257–85).
-
-25 Radford (1945) tells of cigarettes being used as money in prisoner of war camps.
-
-26 Hyperinflations may sometimes be sufficient to wean an economy away from its money, but little else can.
-
-27 To be fair to Greenspan, he has spoken publicly in favor of the gold standard. For example, see his speech at Catholic University, Leuven, Belgium, on January 14, 1997. (For a commentary on this see Parks 1998.) But efforts such as these are hardly consistent with serious public policy support for this system. Surely a strong advocate of a free market gold standard would make this a centerpiece of his administration; perhaps even go so far as to threaten to resign were it not implemented, let alone seriously studied with a view toward implementation.
+[^27]: To be fair to Greenspan, he has spoken publicly in favor of the gold standard. For example, see his speech at Catholic University, Leuven, Belgium, on January 14, 1997. (For a commentary on this see Parks 1998.) But efforts such as these are hardly consistent with serious public policy support for this system. Surely a strong advocate of a free market gold standard would make this a centerpiece of his administration; perhaps even go so far as to threaten to resign were it not implemented, let alone seriously studied with a view toward implementation.

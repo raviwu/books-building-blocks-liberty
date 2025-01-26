@@ -23,12 +23,7 @@ The problem is by no means limited to the socks example, for all so-called priva
 
 Misguided though the definition may be, the externalities argument still has strong influence. Many economists continue to claim that to the extent that externalities are present, “market imperfections” are created and government action is justified to remedy the situation.
 
-
-
-
-
 External Economies
-
 
 Leaving aside these objections for the time being, let us consider the externalities argument as it applies to roadways. The argument assumes that roadways are an instance of positive externalities. Any entrepreneur who constructs a road will have to bear all the costs (of labor, materials, etc.), just as in any business, but since highways are an external economy, he will be unable to reap rewards proportional to the benefits provided. For example, benefits would spill over to those who own land near the highways, in the form of increased value (i.e., the road builder cannot charge the beneficiaries for these gains). Other benefits would be enjoyed, for free, by people who simply prefer more and more highways. Nor could the road owner exclude from increased benefits those who gain from the resulting cheaper transport in the form of lower prices for shipped merchandise.
 
@@ -179,9 +174,6 @@ If the free-rider argument were really valid, it would open up a Pandora’s box
 The so-called free-rider problem would not be limited, however, to such fanciful examples, for our lives are riddled with such phenomena. As Murray Rothbard has written:
 
 	The difficulty with this argument is that it proves far too much. For which one of us would earn anything like our present real income were it not for external benefits that we derive from the actions of others? Specifically, the great modern accumulation of capital goods is an inheritance from all the net savings of our ancestors. Without them, we would, regardless of the quality of our own moral character, be living in a primitive jungle. The inheritance of money capital from our ancestors is, of course, simply inheritance of shares in this capital structure. We are all, therefore, free riders on the past. We are also free riders on the present, because we benefit from the continuing investment of our fellow men and from their specialized skills on the market. Certainly the vast bulk of our wages, if they could be so imputed, would be due to this heritage on which we are free riders. The landowner has no more of an unearned increment than any one of us. Are all of us to suffer confiscation, therefore, and to be taxed for our happiness? And who then is to receive the loot? Our dead ancestors who were our benefactors in investing the capital?26 [Emphasis added]
-
-
-
 
 
 Public Goods
@@ -443,173 +435,160 @@ Here, again, we find the government, seemingly basing its actions on the “scie
 
 Given this state of affairs, it behooves us to question the role played by the collective goods argument. Is it, as is implicitly maintained by its adherents, an intellectually sound defense of government activities? Or is it no more than an apologetic for programs which would have been embarked upon regardless of the availability of the argument—and which were actually begun long before the argument was conceived?
 
-
-
+---
 
 Reprinted with kind permission of the Ludwig von Mises Institute from Journal of Libertarian Studies 7, no. 1 (1983): 1–34.
 
-1 Externalities are usually separated into external economies (positive externalities) and external diseconomies (negative externalities). Although considered by most economists as virtually the same (i.e., as merely opposite sides of the same coin), in our view positive and negative externalities are conceptually different and in need of separate treatment. See Rothbard (1990, pp. 55–99).
+---
 
-2 Haveman (1970, p. 25), Bish and Warren (1972, pp. 97–122) define public goods in terms of excludability: “Public or collective goods in economic terminology are ‘nonpackageable;’ that is, in principle, no one can be excluded from consuming them.”
+[^1]: Externalities are usually separated into external economies (positive externalities) and external diseconomies (negative externalities). Although considered by most economists as virtually the same (i.e., as merely opposite sides of the same coin), in our view positive and negative externalities are conceptually different and in need of separate treatment. See Rothbard (1990, pp. 55–99).
 
-3 Bonavia (1954, pp. 48–49). Consider also this statement: “Transportation almost always involves rather strong... externalities of one sort or another, so that unsubsidized private operation involves necessarily higher prices, in order to break even, than would be conducive to the most efficient utilization of the facilities” (private correspondence, September 6, 1977, from William Vickrey to the present author).
+[^2]: Haveman (1970, p. 25), Bish and Warren (1972, pp. 97–122) define public goods in terms of excludability: “Public or collective goods in economic terminology are ‘nonpackageable;’ that is, in principle, no one can be excluded from consuming them.”
 
-4 See Rothbard (1962, p. 883). Also Block (1975).
+[^3]: Bonavia (1954, pp. 48–49). Consider also this statement: “Transportation almost always involves rather strong... externalities of one sort or another, so that unsubsidized private operation involves necessarily higher prices, in order to break even, than would be conducive to the most efficient utilization of the facilities” (private correspondence, September 6, 1977, from William Vickrey to the present author).
 
-5 Whenever government competes in the market, it has a chilling effect on private investment in that area, for the government can underwrite its losses out of tax proceeds, and a market enterprise cannot. In this paper we assume the plausibility of a private market in road building. For further explication, see Block (1979, pp. 209–38).
+[^4]: See Rothbard (1962, p. 883). Also Block (1975).
 
-6 Jackman (1916, p. 261).
+[^5]: Whenever government competes in the market, it has a chilling effect on private investment in that area, for the government can underwrite its losses out of tax proceeds, and a market enterprise cannot. In this paper we assume the plausibility of a private market in road building. For further explication, see Block (1979, pp. 209–38).
 
-7 Cited in Wooldridge (1970, p. 129).
+[^6]: Jackman (1916, p. 261).
 
-8 Roth (1967, pp. 20–21).
+[^7]: Cited in Wooldridge (1970, p. 129).
 
-9 Roth unfortunately contradicts himself several pages later. Even though he is unwilling to accept the implication that government becomes involved in the production of all “intermediate goods and services,” he states: “As roads benefit nonmotorists by providing facilities for pedestrians and cyclists, and access to properties of different kinds, there is a logical case for charging nonmotorists for the use of the roads” (p. 43). There would be no problem for Roth if the nonmotorist he advocated as liable for tolls were limited to cyclists and pedestrians. Although they are certainly nonmotorists, it is no less sure that these two groups do use the roads. This interpretation will not do, however, for Roth raises this point specifically in order to justify property taxes as a source of road funding. But property taxes are paid by landowners, who are not to be confused with motorists, pedestrians, or cyclists (although there is obviously an overlap). In basing road charges on property ownership, Roth is using the very externality argument which he had earlier seemed to reject.
+[^8]: Roth (1967, pp. 20–21).
 
-10 Peterson (1950, p. 196). See also Mohring (1965). Mohring states that “the aesthetic, humanitarian, and other ‘nonmarket benefit’ arguments that are often used to justify subsidies to such areas as education, research, and the arts seem to apply little to transportation” (pp. 231–32).
+[^9]: Roth unfortunately contradicts himself several pages later. Even though he is unwilling to accept the implication that government becomes involved in the production of all “intermediate goods and services,” he states: “As roads benefit nonmotorists by providing facilities for pedestrians and cyclists, and access to properties of different kinds, there is a logical case for charging nonmotorists for the use of the roads” (p. 43). There would be no problem for Roth if the nonmotorist he advocated as liable for tolls were limited to cyclists and pedestrians. Although they are certainly nonmotorists, it is no less sure that these two groups do use the roads. This interpretation will not do, however, for Roth raises this point specifically in order to justify property taxes as a source of road funding. But property taxes are paid by landowners, who are not to be confused with motorists, pedestrians, or cyclists (although there is obviously an overlap). In basing road charges on property ownership, Roth is using the very externality argument which he had earlier seemed to reject.
 
-11 Baumol (1963, p. 8).
+[^10]: Peterson (1950, p. 196). See also Mohring (1965). Mohring states that “the aesthetic, humanitarian, and other ‘nonmarket benefit’ arguments that are often used to justify subsidies to such areas as education, research, and the arts seem to apply little to transportation” (pp. 231–32).
 
-12 For the same logical error, although presented with a slight variation of emphasis, see Smerk (1965a), where he states:
+[^11]: Baumol (1963, p. 8).
 
-	External economies abound from the provision of transport. In other words, there are many gains and costs which are not realized in pecuniary terms by the enterprise in question, since by its very nature transport confers substantial benefits upon nonusers. Assuming operation of public transport to reflect the general interests of the public, transport output therefore seems most justifiably geared to a point of equality between social costs and benefits rather than strict and sole adherence to the forces of the market as expressed in purely pecuniary terms. (p. 63)
+[^12]: For the same logical error, although presented with a slight variation of emphasis, see Smerk (1965a), where he states: `External economies abound from the provision of transport. In other words, there are many gains and costs which are not realized in pecuniary terms by the enterprise in question, since by its very nature transport confers substantial benefits upon nonusers. Assuming operation of public transport to reflect the general interests of the public, transport output therefore seems most justifiably geared to a point of equality between social costs and benefits rather than strict and sole adherence to the forces of the market as expressed in purely pecuniary terms. (p. 63)` Assuming, however, operation of merry-go-rounds to reflect the general interests of the public, and assuming also, as is the case, that these mechanisms, too, are replete with external benefits, does it follow that merry-go-round output therefore seems most justifiably geared to public rather than private enterprise? If so, then it would seem that there is nothing that cannot be claimed for government operation.
 
+[^13]: It would be consistent, although nonsensical, to accept the externality argument in favor of government road monopoly—and nationalization of all other industries wherein externalities obtain—as well. For opposing positions, however, the reader might consult Hayek’s The Road to Serfdom and Collectivist Economic Planning, and three books by Ludwig von Mises, Bureaucracy, Planning for Freedom, and Human Action.
 
+[^14]: Roth (1967, p. 34). Haveman (1970, p. 34) writes the following: `When the next semi-truck pulls onto the freeway with the effect of delaying your arrival and that of all other freeway motorists, you and your fellow drivers are the objects of a spill-over cost. It is characteristic that... the person harmed bears identifiable “costs” for which he is not compensated. Moreover... this person would be willing to pay something to avoid bearing the spill-over cost.`
 
-Assuming, however, operation of merry-go-rounds to reflect the general interests of the public, and assuming also, as is the case, that these mechanisms, too, are replete with external benefits, does it follow that merry-go-round output therefore seems most justifiably geared to public rather than private enterprise? If so, then it would seem that there is nothing that cannot be claimed for government operation.
+[^15]: Walters (1968, p. 11).
 
-13 It would be consistent, although nonsensical, to accept the externality argument in favor of government road monopoly—and nationalization of all other industries wherein externalities obtain—as well. For opposing positions, however, the reader might consult Hayek’s The Road to Serfdom and Collectivist Economic Planning, and three books by Ludwig von Mises, Bureaucracy, Planning for Freedom, and Human Action.
+[^16]: If the government charged a price for highway use, such a user fee might deter congestion and lead motorists, in effect, to take account of the congestion costs they impose on others. For an analysis of why a privately owned road system is preferable even to a government pricing mechanism, see Block (1979).
 
-14 Roth (1967, p. 34). Haveman (1970, p. 34) writes the following:
+[^17]: Winch (1963, p. 130), for example, calls for “taxes aimed to recoup from property owners the costs of the road attributable to the traffic which has conferred benefits on that property.”
 
-	When the next semi-truck pulls onto the freeway with the effect of delaying your arrival and that of all other freeway motorists, you and your fellow drivers are the objects of a spill-over cost. It is characteristic that... the person harmed bears identifiable “costs” for which he is not compensated. Moreover... this person would be willing to pay something to avoid bearing the spill-over cost.
+[^18]: He may not be able or even willing to purchase all of the land that may conceivably be benefited from his construction, but this will not affect the viability of private roads any more than will the advent of helicopters, able to see over even the highest of fences, win the possibility of a private market in outdoor movies.
 
+[^19]: Cooper (1971, p. 23).
 
+[^20]: Brownlee and Heller (1956, p. 236).
 
-15 Walters (1968, p. 11).
+[^21]: Ross, ibid., p. 257.
 
-16 If the government charged a price for highway use, such a user fee might deter congestion and lead motorists, in effect, to take account of the congestion costs they impose on others. For an analysis of why a privately owned road system is preferable even to a government pricing mechanism, see Block (1979).
+[^22]: To most males, that is. In the eyes of competitive women, homosexuals, perhaps, and strict, fundamentalist clergymen, presumably, she is anything but. (We deal on page 177 with the question of one man’s meat being another’s poison.)
 
-17 Winch (1963, p. 130), for example, calls for “taxes aimed to recoup from property owners the costs of the road attributable to the traffic which has conferred benefits on that property.”
+[^23]: Even such an externality can be internalized by the ever watchful and vigilant marketplace. For an account of how this is accomplished by the management of Maxwell’s Plum restaurant, in New York City, see New York magazine. March 1978, and for a similar account involving Sardi’s restaurant, see United magazine, November 1982.
 
-18 He may not be able or even willing to purchase all of the land that may conceivably be benefited from his construction, but this will not affect the viability of private roads any more than will the advent of helicopters, able to see over even the highest of fences, win the possibility of a private market in outdoor movies.
+[^24]: Smerk (1965a, p. 230) writes: “As the general public benefits from an increased supply of transport of all types, tax receipts from the general public may with justice be used to make up losses.”
 
-19 Cooper (1971, p. 23).
+[^25]: Or do anything else, whatsoever, that could theoretically be interpreted as being of benefit to the free rider. Remember, it has not been proven that the free rider must admit to being a beneficiary. Smerk and other writers have been willing merely to assume that the general public benefits from an increased supply of transport.
 
-20 Brownlee and Heller (1956, p. 236).
+[^26]: Rothbard (1962, pp. 888–89).
 
-21 Ross, ibid., p. 257.
+[^27]: Haritos (1974, p. 54).
 
-22 To most males, that is. In the eyes of competitive women, homosexuals, perhaps, and strict, fundamentalist clergymen, presumably, she is anything but. (We deal on page 177 with the question of one man’s meat being another’s poison.)
+[^28]: Samuelson (1955, p. 350).
 
-23 Even such an externality can be internalized by the ever watchful and vigilant marketplace. For an account of how this is accomplished by the management of Maxwell’s Plum restaurant, in New York City, see New York magazine. March 1978, and for a similar account involving Sardi’s restaurant, see United magazine, November 1982.
+[^29]: Ibid.
 
-24 Smerk (1965a, p. 230) writes: “As the general public benefits from an increased supply of transport of all types, tax receipts from the general public may with justice be used to make up losses.”
+[^30]: On this point, see Enke (1955, pp. 131–33), Margolis (1955, pp. 247–49), and Tiebout (1956, p. 417).
 
-25 Or do anything else, whatsoever, that could theoretically be interpreted as being of benefit to the free rider. Remember, it has not been proven that the free rider must admit to being a beneficiary. Smerk and other writers have been willing merely to assume that the general public benefits from an increased supply of transport.
+[^31]: Rothbard (1962, p. 884).
 
-26 Rothbard (1962, pp. 888–89).
+[^32]: Ibid., p. 885.
 
-27 Haritos (1974, p. 54).
+[^33]: This is not meant as an exhaustive brief for a free market in defense services. Such treatment would take us far beyond the scope of this paper, but the interested reader can consult Rothbard (1978, chaps. 11, 13; 1970, chap. 1), as well as Wooldridge (1970, chap. 6).
 
-28 Samuelson (1955, p. 350).
+[^34]: Bish and Warren (1972, p. 100).
 
-29 Ibid.
+[^35]: For examples of excludability of road users, see Haritos (1974, pp. 55–56).
 
-30 On this point, see Enke (1955, pp. 131–33), Margolis (1955, pp. 247–49), and Tiebout (1956, p. 417).
+[^36]: Tiebout (1956, p. 417).
 
-31 Rothbard (1962, p. 884).
+[^37]: Samuelson (1954, pp. 388–89).
 
-32 Ibid., p. 885.
+[^38]: Savas (1974, p. 483).
 
-33 This is not meant as an exhaustive brief for a free market in defense services. Such treatment would take us far beyond the scope of this paper, but the interested reader can consult Rothbard (1978, chaps. 11, 13; 1970, chap. 1), as well as Wooldridge (1970, chap. 6).
+[^39]: Haveman (1970, pp. 42–43).
 
-34 Bish and Warren (1972, p. 100).
+[^40]: Samuelson (1955, p. 351).
 
-35 For examples of excludability of road users, see Haritos (1974, pp. 55–56).
+[^41]: Ibid., p. 352.
 
-36 Tiebout (1956, p. 417).
+[^42]: Rothbard (1962, pp. 15–16). See also Krutilla (1963, p. 227), and Renshaw (1962, p. 374). Winch (1963, p. 38) writes that “unless we make some assumption about interpersonal comparisons of utility, economics can offer no help in problems of policy such as that of highway planning.”
 
-37 Samuelson (1954, pp. 388–89).
+[^43]: Mohring (1965, p. 231).
 
-38 Savas (1974, p. 483).
+[^44]: Mohring and Harwitz (1962, p. 7).
 
-39 Haveman (1970, pp. 42–43).
+[^45]: Smerk (1965a, p. 236).
 
-40 Samuelson (1955, p. 351).
+[^46]: Ibid., p. 241.
 
-41 Ibid., p. 352.
+[^47]: See Leoni and Frola (1977, pp. 101–10), Mises (1966, pp. 107–15, 350–52), and Rothbard (1962, pp. 277–80).
 
-42 Rothbard (1962, pp. 15–16). See also Krutilla (1963, p. 227), and Renshaw (1962, p. 374). Winch (1963, p. 38) writes that “unless we make some assumption about interpersonal comparisons of utility, economics can offer no help in problems of policy such as that of highway planning.”
+[^48]: Mises (1966, pp. 107, 110).
 
-43 Mohring (1965, p. 231).
+[^49]: Ibid., pp. 94–95.
 
-44 Mohring and Harwitz (1962, p. 7).
+[^50]: Rothbard (1962, p. 890) asks `by what mysterious process the critics know that the recipients [of external benefits] would have liked to purchase the “benefit.” Our only way of knowing the content of preference scales is to see them revealed in concrete choices. Since the choice concretely was not to buy the benefit, there is no justification for outsiders to assert that B’s preference scale was “really” different from what was revealed in his actions.`
 
-45 Smerk (1965a, p. 236).
+[^51]: Netzer (1952, p. 109).
 
-46 Ibid., p. 241.
+[^52]: Rothbard (1962, p. 643).
 
-47 See Leoni and Frola (1977, pp. 101–10), Mises (1966, pp. 107–15, 350–52), and Rothbard (1962, pp. 277–80).
+[^53]: Samuelson (1955, pp. 350–51). Neither will Tiebout’s attempted reformulation do: “A definitive alternative to Samuelson’s might be simply that a public good is one which should be produced, but for which there is no feasible method of charging the consumers” (p. 417). We can ask Tiebout (and Samuelson, too) how we can know that consumers really value a good for which they have no way of registering a demand. If there is no feasible method of charging a consumer, then he can never make his desires known.
 
-48 Mises (1966, pp. 107, 110).
+[^54]: This is not the time to expound on the general difficulties of indifference curve analysis. It is worth noting, however, that it is impossible to reveal indifference through the usual market procedures of buying or selling. Thus, an economics based on the view that preference orderings are seen only in human action must entirely reject indifference curve analysis. For a full exposition of this point, and a general discreditation of indifference as an economic category, see Rothbard (1962, pp. 265–67), and Block (1980, pp. 422–37).
 
-49 Ibid., pp. 94–95.
+[^55]: Olson (1965, p. 2).
 
-50 Rothbard (1962, p. 890) asks
+[^56]: Ibid., p. 6.
 
-	by what mysterious process the critics know that the recipients [of external benefits] would have liked to purchase the “benefit.” Our only way of knowing the content of preference scales is to see them revealed in concrete choices. Since the choice concretely was not to buy the benefit, there is no justification for outsiders to assert that B’s preference scale was “really” different from what was revealed in his actions.
+[^57]: Ibid., p. 11.
 
+[^58]: Ibid., p. 94.
 
+[^59]: Ibid., p. 14.
 
-51 Netzer (1952, p. 109).
+[^60]: U.S. Bureau of the Census (1976).
 
-52 Rothbard (1962, p. 643).
+[^61]: For an excellent exegesis of the importance of the entrepreneur, see Kirzner (1973).
 
-53 Samuelson (1955, pp. 350–51). Neither will Tiebout’s attempted reformulation do: “A definitive alternative to Samuelson’s might be simply that a public good is one which should be produced, but for which there is no feasible method of charging the consumers” (p. 417). We can ask Tiebout (and Samuelson, too) how we can know that consumers really value a good for which they have no way of registering a demand. If there is no feasible method of charging a consumer, then he can never make his desires known.
+[^62]: Jackman (1916, p. 233).
 
-54 This is not the time to expound on the general difficulties of indifference curve analysis. It is worth noting, however, that it is impossible to reveal indifference through the usual market procedures of buying or selling. Thus, an economics based on the view that preference orderings are seen only in human action must entirely reject indifference curve analysis. For a full exposition of this point, and a general discreditation of indifference as an economic category, see Rothbard (1962, pp. 265–67), and Block (1980, pp. 422–37).
+[^63]: Ibid., pp. 233–34.
 
-55 Olson (1965, p. 2).
+[^64]: Tripp (1950, p. 43). According to Sidney and Beatrice Webb (1922, pp. 155–59), toll roads, or turnpikes, were in operation as early as 1662 and 1670 but did not achieve a modest frequency until 1691. The earliest historical example on record, however, seems to be much earlier: “Authority seems to have been given in 1267 to levy a toll in Gloucestershire Manor” (ibid., p. 157).
 
-56 Ibid., p. 6.
+[^65]: Peterson (1950, pp. 192–93).
 
-57 Ibid., p. 11.
+[^66]: Jackman (1916, p. 234). The two reports he cites are “Report from the Committee of the House of Commons to Consider Acts Regarding Turnpikes, Roads, and Highways, 1821” and “Report of the Royal Commission on the State of the Roads, 1840.” Webb and Webb (1922, p. 152) give rough support to these estimates in stating that 23,000 miles of roads were administered by the Turnpike Trusts in 1835. They add the fact that, in the same year, 1,100 Turnpike Companies collectively levied an annual revenue of more than 1.5 million sterling and had a debt of £7 million.
 
-58 Ibid., p. 94.
+[^67]: Jackman (1916, p. 234).
 
-59 Ibid., p. 14.
+[^68]: Brit. Mus., T. 1157 (4), “Highways Improved,” p. 2, quoted in ibid.
 
-60 U.S. Bureau of the Census (1976).
+[^69]: Scholefield and Cockburn (1932, p. 467), quoted in Tripp (1950, p. 43).
 
-61 For an excellent exegesis of the importance of the entrepreneur, see Kirzner (1973).
+[^70]: See also Bonavia (1954, p. 53), concerning the Italian experience with private roads, or autostrade.
 
-62 Jackman (1916, p. 233).
+[^71]: Wooldridge (1970, pp. 129–30).
 
-63 Ibid., pp. 233–34.
+[^72]: See Lincoln Highway Association (1935).
 
-64 Tripp (1950, p. 43). According to Sidney and Beatrice Webb (1922, pp. 155–59), toll roads, or turnpikes, were in operation as early as 1662 and 1670 but did not achieve a modest frequency until 1691. The earliest historical example on record, however, seems to be much earlier: “Authority seems to have been given in 1267 to levy a toll in Gloucestershire Manor” (ibid., p. 157).
+[^73]: U.S. Bureau of the Census (1976, p. 604).
 
-65 Peterson (1950, pp. 192–93).
+[^74]: Baumol (1963, p. 14).
 
-66 Jackman (1916, p. 234). The two reports he cites are “Report from the Committee of the House of Commons to Consider Acts Regarding Turnpikes, Roads, and Highways, 1821” and “Report of the Royal Commission on the State of the Roads, 1840.” Webb and Webb (1922, p. 152) give rough support to these estimates in stating that 23,000 miles of roads were administered by the Turnpike Trusts in 1835. They add the fact that, in the same year, 1,100 Turnpike Companies collectively levied an annual revenue of more than 1.5 million sterling and had a debt of £7 million.
+[^75]: Peterson (1950, p. 192).
 
-67 Jackman (1916, p. 234).
-
-68 Brit. Mus., T. 1157 (4), “Highways Improved,” p. 2, quoted in ibid.
-
-69 Scholefield and Cockburn (1932, p. 467), quoted in Tripp (1950, p. 43).
-
-70 See also Bonavia (1954, p. 53), concerning the Italian experience with private roads, or autostrade.
-
-71 Wooldridge (1970, pp. 129–30).
-
-72 See Lincoln Highway Association (1935).
-
-73 U.S. Bureau of the Census (1976, p. 604).
-
-74 Baumol (1963, p. 14).
-
-75 Peterson (1950, p. 192).
-
-76 Savas (1974, p. 483).
+[^76]:  Savas (1974, p. 483).
