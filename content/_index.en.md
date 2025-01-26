@@ -18,7 +18,7 @@ Checkout [mises.org](https://mises.org/library/building-blocks-liberty) to get t
 }
 </style>
 
-<img src="{{ 'images/cover-en.png' | relURL }}" class="image-left" alt="Building Blocks Liberty"/>
+<img src="images/cover-en.png" class="image-left" alt="Building Blocks Liberty"/>
 
 Walter Block ranks among the most prolific and provocative libertarian thinkers in human history. This volume fills an important gap in his corpus of writing: a series of accessible articles on cutting edge topics. His research and writing on roads, education, labor, secession, drugs, and money fill the scholarly journals, but these reductions bring this research to you in a format that is designed to persuade everyone.
 
