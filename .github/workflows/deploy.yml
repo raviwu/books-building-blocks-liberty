@@ -29,6 +29,10 @@ jobs:
           github_token: ${{ secrets.PUSH_REPO_TOKEN }}
           publish_dir: ./resources
 
+      # Step 4: Disable Jekyll
+      - name: Disable Jekyll
+        run: echo "" > resources/.nojekyll
+
       - name: Deploy and publish updates
         run: |
           git config --global user.email "action@github.com"
