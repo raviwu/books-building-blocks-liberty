@@ -31,7 +31,7 @@ jobs:
        - name: build content to public site
          run: hugo --minify --gc -t hugo-book
 
-       - name: Debug: List generated files
+       - name: Debug - List generated files
          run: ls -R public
 
        - name: Deploy and publish updates
