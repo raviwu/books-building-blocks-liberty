@@ -45,3 +45,4 @@ jobs:
           git add -f . # Force add all changes
           git commit -m "[chore] Auto publish"
           git push -u origin gh-pages -f
+          echo "hello"
