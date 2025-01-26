@@ -23,7 +23,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --minify --gc -t hugo-book
+        run: hugo --gc --minify --cleanDestinationDir --gc -t hugo-book
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
