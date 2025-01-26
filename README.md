@@ -14,11 +14,5 @@ I grabbed the original copy chapter by chapter, and then gradually translate the
 - GitHub / GitHub Action
 
 ```
-hugo server --minify --theme book
-```
-
-Publish
-
-```
-hugo -t book
+hugo server --gc --minify --cleanDestinationDir --gc -t hugo-book
 ```
