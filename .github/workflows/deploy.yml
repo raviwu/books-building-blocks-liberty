@@ -3,17 +3,15 @@ name: Hugo Publish
 on:
   push:
     branches:
-    - master
+      - master
 
 jobs:
   hugo-publish:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -21,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: latest
+          hugo-version: 'latest'
           extended: true
 
       - name: Build Hugo site
@@ -32,17 +30,4 @@ jobs:
         with:
           github_token: ${{ secrets.PUSH_REPO_TOKEN }}
           publish_dir: ./resources
-
-      # Step 4: Disable Jekyll
-      - name: Disable Jekyll
-        run: echo "" > ./resources/.nojekyll
-
-      - name: Deploy and publish updates
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git checkout -b gh-pages
-          git add -f . # Force add all changes
-          git commit -m "[chore] Auto publish"
-          git push -u origin gh-pages -f
-          echo "hello"
+          publish_branch: gh-pages
