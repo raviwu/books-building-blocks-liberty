@@ -29,7 +29,6 @@ In point of fact, many so-called libertarians who have attacked the nonaggressio
 
 The logical implication of their coercive welfarist argument is far worse than merely being required to give a few dollars a month to a relief agency. For suppose they do this. Their standard of living will still be far greater than those on the verge of death from straightened circumstances. No, as long as these relatively rich “libertarians” have enough money to keep themselves from dying from poverty, the logic of their argument compels them to give every penny they own over and above that level to alleviate the plight of the endangered poor.
 
-
-
+---
 
 Printed with kind permission of Mr. Llewellyn H. Rockwell, Jr. This article was initially posted on http://www.lewrockwell.com website.
