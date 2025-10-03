@@ -1,56 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on LW Studio</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/</link><description>Recent content in Docs on LW Studio</description><generator>Hugo</generator><language>zh</language><copyright>CC-BY-4.0</copyright><atom:link href="https://raviwu.github.io/books-building-blocks-liberty/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>致謝</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/01-acknowledgements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/01-acknowledgements/</guid><description>&lt;h1 id="致謝">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on LW Studio</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/</link><description>Recent content in Docs on LW Studio</description><generator>Hugo</generator><language>zh</language><copyright>CC-BY-4.0</copyright><atom:link href="https://raviwu.github.io/books-building-blocks-liberty/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>致謝</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/01-acknowledgements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/01-acknowledgements/</guid><description>&lt;h1 id="致謝"&gt;
  致謝
- &lt;a class="anchor" href="#%e8%87%b4%e8%ac%9d">#&lt;/a>
-&lt;/h1>
-&lt;p>如果沒有許多自由主義同事與朋友的建議和貢獻，這本書不可能出版。&lt;/p>
-&lt;p>我們非常感謝 Ludwig von Mises Institute 所長 Llewellyn H. Rockwell, Jr. 幫助我們開啟這個專案並撰寫了精彩的前言。&lt;/p>
-&lt;p>我們要感謝《International Journal of Value-Based Management, Ethics, Place and Environment》、《Journal of Business Ethics》、《Journal of Social, Political and Economic Studies》、《Managerial Finance》、《International Journal of Social Economics》、《Journal of Libertarian Studies》與《American Journal of Economics and Sociology》的編輯們，允許我們重印 Block 教授之前在這些著名期刊上發表的文章。&lt;/p>
-&lt;p>特別感謝杰出的學者與教授 David Gordon、Jörg Guido Hülsmann、Thomas DiLorenzo 和 Peter Klein 對本書的審閱。&lt;/p>
-&lt;p>感謝 Tudor Smirna 設計封面。&lt;/p>
-&lt;p>在編備本書的過程中，我們獲得 Walter Block 教授的寶貴建議和幫助。他的建議和評論助我們進一步改進這本書。&lt;/p>
-&lt;blockquote>
-&lt;p>Iulian Tãnase and Bogdan Glãvan&lt;/p></description></item><item><title>前言</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/02-foreword/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/02-foreword/</guid><description>&lt;h1 id="前言">
+ &lt;a class="anchor" href="#%e8%87%b4%e8%ac%9d"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;如果沒有許多自由主義同事與朋友的建議和貢獻，這本書不可能出版。&lt;/p&gt;
+&lt;p&gt;我們非常感謝 Ludwig von Mises Institute 所長 Llewellyn H. Rockwell, Jr. 幫助我們開啟這個專案並撰寫了精彩的前言。&lt;/p&gt;
+&lt;p&gt;我們要感謝《International Journal of Value-Based Management, Ethics, Place and Environment》、《Journal of Business Ethics》、《Journal of Social, Political and Economic Studies》、《Managerial Finance》、《International Journal of Social Economics》、《Journal of Libertarian Studies》與《American Journal of Economics and Sociology》的編輯們，允許我們重印 Block 教授之前在這些著名期刊上發表的文章。&lt;/p&gt;
+&lt;p&gt;特別感謝杰出的學者與教授 David Gordon、Jörg Guido Hülsmann、Thomas DiLorenzo 和 Peter Klein 對本書的審閱。&lt;/p&gt;
+&lt;p&gt;感謝 Tudor Smirna 設計封面。&lt;/p&gt;
+&lt;p&gt;在編備本書的過程中，我們獲得 Walter Block 教授的寶貴建議和幫助。他的建議和評論助我們進一步改進這本書。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Iulian Tãnase and Bogdan Glãvan&lt;/p&gt;</description></item><item><title>前言</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/02-foreword/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/02-foreword/</guid><description>&lt;h1 id="前言"&gt;
  前言
- &lt;a class="anchor" href="#%e5%89%8d%e8%a8%80">#&lt;/a>
-&lt;/h1>
-&lt;p>Murray Rothbard 生前被稱為自由主義者先生。我們有足夠的信心這個稱號現在屬於 Walter Block。他是 Rothbard 的學生，他的簡歷像電話簿那樣厚，像維基百科多樣。無論他寫的是經濟理論、倫理學、政治分裂、禁藥、道路、教育、貨幣政策、社會理論、工會、政治語言還是其他事，他的散文都對這個的想法充滿熱誠：如果人類的問題要被解決，都可以透過更多的自由來找到解決辦法。&lt;/p>
-&lt;p>是的，Walter Block 激進。他是公認的無政府資本主義者，他的代表性作品是《&lt;a href="https://www.amazon.com/Defending-Undefendable-Prostitute-Moneylender-Scapegoats/dp/1479323985">Defending the Undefendable&lt;/a>》。花時間閱讀他的文章的讀者會發現，Block 式方法遠不止打破禁忌。他的激進與大膽，不僅來自結論，也來自他硬派的邏輯、絕對真實及高於常人的真誠。他想要回答最棘手的人類問題，無論是大是小，他在人類認真與推理的可以到達的最遠範圍追求真理。&lt;/p>
-&lt;p>在瀏覽 Block 教授與同事在貨幣政策等主題上的通信時，Block 與他的同事存在嚴重分歧。他的立論觀點切中要點且具吸引力，讓對方無法抗拒不斷回信，但這只會引起另一個回覆、另一個反駁、另一個回覆⋯⋯幾輪往返下來可以進行數十次意見交換。Block 的堅持不是因為他想打敗任何人，而是因為他非常真誠地尋找真相並找出錯誤。如果他在某一點上錯了，他想了解它。這就是為什麼他的對手總是如坐針氈。&lt;/p>
-&lt;p>他的成果還有另一個應該被關注的面向。他的公眾形像是堅定的自由主義者，但他的論證方法和模式來自他在經濟學的核心訓練。他使用經濟工具來尋找社會問題的答案。這的特質不只展現在他的論述中，他也是一位受啟發的導師，從不放過逐步展示論點的機會，讓讀者在過程中理解經濟邏輯。&lt;/p>
-&lt;p>你會驚訝於 Block 讓原本可能被視為荒唐的想法變得如此合理。不是每個讀者都會接受 Block 的每一個結論，但是每個人都將了解奧地利傳統中一流經濟思想家如何處理大量的問題。如果你不同意他的觀點，使用跟他相同的方法也會讓你做得更好：用邏輯和細節分析來仔細思考問題。&lt;/p>
-&lt;p>Block 的最後一個特質可能會被忽視：他的謙遜。在充斥著自負和自私野心的學術界，Block 表現出一致的真誠，甚至有點天真地認為用耐心和邏輯證明的真相就夠了。在這個充滿江湖騙子和利益驅動空想家的政治化世界中，這種情況當然很少能適用。但 Block 以他尋求真相的方式、願意進行任何形式的思辨，及願意被指正錯誤的態度，向我們展示了風采。&lt;/p>
-&lt;p>Walter Block 的所有「關鍵論文」合集肯定長達數千頁。但這是極好的節錄，也是對我們這個時代最具靈感又勤奮的知識分子之一，獻上的敬意。&lt;/p>
-&lt;blockquote>
-&lt;p>Llewellyn H. Rockwell, Jr.&lt;/p>
-&lt;p>Ludwig von Mises Institute&lt;/p>
-&lt;p>Auburn, Alabama&lt;/p>
-&lt;/blockquote></description></item><item><title>介紹</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/03-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/03-introduction/</guid><description>&lt;h1 id="介紹">
+ &lt;a class="anchor" href="#%e5%89%8d%e8%a8%80"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Murray Rothbard 生前被稱為自由主義者先生。我們有足夠的信心這個稱號現在屬於 Walter Block。他是 Rothbard 的學生，他的簡歷像電話簿那樣厚，像維基百科多樣。無論他寫的是經濟理論、倫理學、政治分裂、禁藥、道路、教育、貨幣政策、社會理論、工會、政治語言還是其他事，他的散文都對這個的想法充滿熱誠：如果人類的問題要被解決，都可以透過更多的自由來找到解決辦法。&lt;/p&gt;
+&lt;p&gt;是的，Walter Block 激進。他是公認的無政府資本主義者，他的代表性作品是《&lt;a href="https://www.amazon.com/Defending-Undefendable-Prostitute-Moneylender-Scapegoats/dp/1479323985"&gt;Defending the Undefendable&lt;/a&gt;》。花時間閱讀他的文章的讀者會發現，Block 式方法遠不止打破禁忌。他的激進與大膽，不僅來自結論，也來自他硬派的邏輯、絕對真實及高於常人的真誠。他想要回答最棘手的人類問題，無論是大是小，他在人類認真與推理的可以到達的最遠範圍追求真理。&lt;/p&gt;
+&lt;p&gt;在瀏覽 Block 教授與同事在貨幣政策等主題上的通信時，Block 與他的同事存在嚴重分歧。他的立論觀點切中要點且具吸引力，讓對方無法抗拒不斷回信，但這只會引起另一個回覆、另一個反駁、另一個回覆⋯⋯幾輪往返下來可以進行數十次意見交換。Block 的堅持不是因為他想打敗任何人，而是因為他非常真誠地尋找真相並找出錯誤。如果他在某一點上錯了，他想了解它。這就是為什麼他的對手總是如坐針氈。&lt;/p&gt;
+&lt;p&gt;他的成果還有另一個應該被關注的面向。他的公眾形像是堅定的自由主義者，但他的論證方法和模式來自他在經濟學的核心訓練。他使用經濟工具來尋找社會問題的答案。這的特質不只展現在他的論述中，他也是一位受啟發的導師，從不放過逐步展示論點的機會，讓讀者在過程中理解經濟邏輯。&lt;/p&gt;
+&lt;p&gt;你會驚訝於 Block 讓原本可能被視為荒唐的想法變得如此合理。不是每個讀者都會接受 Block 的每一個結論，但是每個人都將了解奧地利傳統中一流經濟思想家如何處理大量的問題。如果你不同意他的觀點，使用跟他相同的方法也會讓你做得更好：用邏輯和細節分析來仔細思考問題。&lt;/p&gt;
+&lt;p&gt;Block 的最後一個特質可能會被忽視：他的謙遜。在充斥著自負和自私野心的學術界，Block 表現出一致的真誠，甚至有點天真地認為用耐心和邏輯證明的真相就夠了。在這個充滿江湖騙子和利益驅動空想家的政治化世界中，這種情況當然很少能適用。但 Block 以他尋求真相的方式、願意進行任何形式的思辨，及願意被指正錯誤的態度，向我們展示了風采。&lt;/p&gt;
+&lt;p&gt;Walter Block 的所有「關鍵論文」合集肯定長達數千頁。但這是極好的節錄，也是對我們這個時代最具靈感又勤奮的知識分子之一，獻上的敬意。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Llewellyn H. Rockwell, Jr.&lt;/p&gt;
+&lt;p&gt;Ludwig von Mises Institute&lt;/p&gt;
+&lt;p&gt;Auburn, Alabama&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>介紹</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/03-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/03-introduction/</guid><description>&lt;h1 id="介紹"&gt;
  介紹
- &lt;a class="anchor" href="#%e4%bb%8b%e7%b4%b9">#&lt;/a>
-&lt;/h1>
-&lt;p>這本《自由的基石：Walter Block 的重要著作》，彰顯了自由意志主義不只是有力且睿智的政治經濟哲學。自由意志主義很獨特，它不左也不右。&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
-&lt;p>在大多數人看來，保守主義或右翼哲學支持經濟自由，但不支持個人自由。而社會主義或左翼觀點支持個人自由，但左翼的個人自由與買賣、貿易和商業活動無關。&lt;/p>
-&lt;p>這兩種說法都不完全正確。右翼共和黨人對自由企業原則的堅持很容易被誇大。他們中的許多人贊成自由貿易，但面臨外國競爭的產業除外。撰寫本文時，布希總統正在大力插手石油產業的價格，這很難與堅持自由經濟相協調。同樣的，左翼的民主黨人號稱國家的手不該深入家庭深處，但當他們掌權時，毒品、賣淫和色情製品總是非法的。&lt;/p>
-&lt;p>然而，這樣的標準解讀某種程度上還有些理由，如果講反的話就只剩可笑。也就是說，斷言左派支持經濟自由而右派捍衛個人自由，只有愚蠢兩個字。如果有什麼是清楚的，那就是，兩者在根本上都不捍衛由相反意見方所提出的自由。支持自由市場的社會主義者和支持個人使用身體之自由的保守派，都是自相矛盾。&lt;/p>
-&lt;p>Nozick 將自由意志主義描述為支持「成年人之間自願的資本主義行為」時指出了這個問題。作者揭露了雙方弱點。左派，根據公認的說法，認同合法化成年人之間合意的任何事；同樣，右派應該支持資本主義。但這兩者都不是真的如此。當然，沒有主流觀點同時容納這兩種自由。&lt;/p>
-&lt;p>為了找到一種支持這個願景的政治經濟哲學，人們必須接受自由意志主義，即本書主題。只有自由意志主義的觀點，能深入人類努力的終極，且維護人們對自有人身和財產，在尊重他者相同權利之下，做自己喜歡之事的權利。&lt;/p>
-&lt;p>本書第一部分致力於探索經濟自由：經濟自由是什麼，它如何幫助促進美好生活，為什麼我們要保留目前所享有之文明遺跡且避免淪落野蠻時，經濟自由至關重要。&lt;/p>
-&lt;p>在第一篇文章中，我和共同作者試圖證明，私有財產權是防止剝削或侵權的最佳終極手段，也是唯一方法。我們指出，人們只能擁有「有形財產」的權利，而不能擁有其價值。第二篇，我和第二位共同作者試圖回答這個問題：擁有核武這種具侵入性的工具，是否能在特定條件下，仍然可以合乎自由意志主義法則。第三篇，展示與多數人相反的觀點：「自由市場環保主義」不是矛盾的名詞；事實上，我們的生態系統可以透過嚴格遵守私有財產權得到最好的保護，而不是詆毀私有財產權。在第四篇文章中，我和另一位共同作者提出，對受過教育的公眾來說，終極希望來自教育完全私有化，只有在完全私有的教育制度下，知識才能適當地傳遞給下一代。第五和第六篇討論了自由社會中工會化的複雜問題。一方面，工人應該有辭職的權利；如果他們不能這樣做，他們就與雇主處於奴役關係。另一方面，罷工遠不止是辭職，是全體工人同時集體辭職；它必然涉及對那些可能競爭工作機會而被工會成員唾棄的人（“工賊”）發起暴力。第七篇主張，組織道路、隧道、橋樑、街道和其他通道，最公正和最有效的方式是，將它們私有化。只有在經濟上完全私有財產制度下，消費者福利才能最大化。第八篇以道路為例，對公有財產論進行批判。第一部的最後一篇文章，評價了不同傑出經濟學家對貨幣理論和金本位制的貢獻。提出且捍衛金本位是唯一與自由市場哲學兼容的貨幣體系。&lt;/p>
-&lt;p>第二部分涉及人權和個人自由，它與經濟自由，在自由意志主義中是一體兩面。在我們看來，自由是一體的、不可侵犯的、相互聯繫的、不可分割的。左派和右派各有一點點文明生活的答案，良好社會既需要經濟自由，也需要個人自由。具體有哪些？&lt;/p>
-&lt;p>在第十篇中，我們考察了自由意志主義思想的不侵犯公理、地基及架構其上的私有財產權。第十一篇將這個見解應用於兒童權利，同時拒絕積極義務（Positive Obligation）。閱讀此篇，看看自由意志主義者如何回答「在不侵犯父母忽略這些積極義務之權利的情況下保護青少年」。本彙編的第十二篇文章處理「社會正義」問題。這個概念在特定「社會情境」下描繪「正義」，貌似無可爭議。然而，並非如此，「社會正義」企圖偽裝強制性平等主義的概念，並帶到對話中，必須被自由意志主義者拒絕。&lt;/p>
-&lt;p>人們是否有權根據種族、性別、性取向、美貌、力量或他們選擇的任何標準進行歧視？第十三篇給出的答案為不加限定的「是」。這是否侵犯了「受害族群」的權利？一點也不。移民是自由意志主義圈內廣泛爭論的問題，當然，在一般社會中也是如此。第十四篇站在開放邊界的那邊。在第十五篇中，我們著眼政府問題。政府是合法的機構嗎？政府是否從被統治者的同意中獲得其正當權力？基於人民之前授與政府權力的這個（錯誤的）假設，人民是否有權撤回同意？閱讀本篇吧。第十六篇分析成癮性藥物的適當法律地位。對於自由意志主義者來說，這是毫無疑問的：所有成年人都有權在他們的身體中放置任何他們想要的東西。但，合法化難道不會導致犯罪、混亂、貪污嗎？不；這些都是禁令的結果，就像酒精一樣。成癮性藥物的合法化將消除這些問題，使它們處於類似現在啤酒、葡萄酒和白酒所佔據的地位。第二部分以一篇文章結束，釐清自由意志主義（libertarianism）和自由主義（libertinism）之間的混淆。&lt;/p>
-&lt;p>第三部分很簡短，但是它對自由意志主義理論具有重要貢獻。它關注我們為自由辯護的語言。如果我們在用詞方面受限於政治正確的考慮，如果我們不能充分、自由和正確地使用詞語，那麼我們會很難，甚至無法表達自由意志主義的訊息。自由的敵人已經花了許多功夫，把許多重要關鍵詞從「廣被接受的」詞彙中刪除。即使是應當更了解的自由意志主義者也受制於這些用詞習慣，因此削弱了他們捍衛自由意志哲學的努力。爭議詞包括：女士（ms.）、發展中國家（developing countries）、尋租（rent-seeking）、社會正義（social justice）、稅收補貼（tax subsidies）、財產權（property rights）、骯髒的富人（filthy rich）、特權（privileged）、非勞動所得（unearned income）、自由人（freeman）、超人（ultra）、奸商（profiteer）、焚書（book burning）、利益相關者（stakeholder）、不勞而獲（get something for nothing）、搭便車（free rider）、公平貿易（fair trade）、機會主義（opportunistic）、紅州（red states）、藍州（blue states）、自由主義者（liberal），最後但同樣重要的是，自由意志主義者（libertarian）。&lt;/p>
-&lt;blockquote>
-&lt;p>Walter Block&lt;/p>
-&lt;/blockquote>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>Walter Block, “Libertarianism is Unique; It Belongs Neither to the Right Nor the Left; A Critique of the Views of Long, Holcombe, and Baden on the left, Hoppe, Feser and Paul on the right,” Journal of Libertarian Studies, 2010&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>參考書目</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/04-bibliography/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/04-bibliography/</guid><description>&lt;h1 id="參考書目">
+ &lt;a class="anchor" href="#%e4%bb%8b%e7%b4%b9"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;這本《自由的基石：Walter Block 的重要著作》，彰顯了自由意志主義不只是有力且睿智的政治經濟哲學。自由意志主義很獨特，它不左也不右。&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;在大多數人看來，保守主義或右翼哲學支持經濟自由，但不支持個人自由。而社會主義或左翼觀點支持個人自由，但左翼的個人自由與買賣、貿易和商業活動無關。&lt;/p&gt;
+&lt;p&gt;這兩種說法都不完全正確。右翼共和黨人對自由企業原則的堅持很容易被誇大。他們中的許多人贊成自由貿易，但面臨外國競爭的產業除外。撰寫本文時，布希總統正在大力插手石油產業的價格，這很難與堅持自由經濟相協調。同樣的，左翼的民主黨人號稱國家的手不該深入家庭深處，但當他們掌權時，毒品、賣淫和色情製品總是非法的。&lt;/p&gt;
+&lt;p&gt;然而，這樣的標準解讀某種程度上還有些理由，如果講反的話就只剩可笑。也就是說，斷言左派支持經濟自由而右派捍衛個人自由，只有愚蠢兩個字。如果有什麼是清楚的，那就是，兩者在根本上都不捍衛由相反意見方所提出的自由。支持自由市場的社會主義者和支持個人使用身體之自由的保守派，都是自相矛盾。&lt;/p&gt;
+&lt;p&gt;Nozick 將自由意志主義描述為支持「成年人之間自願的資本主義行為」時指出了這個問題。作者揭露了雙方弱點。左派，根據公認的說法，認同合法化成年人之間合意的任何事；同樣，右派應該支持資本主義。但這兩者都不是真的如此。當然，沒有主流觀點同時容納這兩種自由。&lt;/p&gt;
+&lt;p&gt;為了找到一種支持這個願景的政治經濟哲學，人們必須接受自由意志主義，即本書主題。只有自由意志主義的觀點，能深入人類努力的終極，且維護人們對自有人身和財產，在尊重他者相同權利之下，做自己喜歡之事的權利。&lt;/p&gt;
+&lt;p&gt;本書第一部分致力於探索經濟自由：經濟自由是什麼，它如何幫助促進美好生活，為什麼我們要保留目前所享有之文明遺跡且避免淪落野蠻時，經濟自由至關重要。&lt;/p&gt;
+&lt;p&gt;在第一篇文章中，我和共同作者試圖證明，私有財產權是防止剝削或侵權的最佳終極手段，也是唯一方法。我們指出，人們只能擁有「有形財產」的權利，而不能擁有其價值。第二篇，我和第二位共同作者試圖回答這個問題：擁有核武這種具侵入性的工具，是否能在特定條件下，仍然可以合乎自由意志主義法則。第三篇，展示與多數人相反的觀點：「自由市場環保主義」不是矛盾的名詞；事實上，我們的生態系統可以透過嚴格遵守私有財產權得到最好的保護，而不是詆毀私有財產權。在第四篇文章中，我和另一位共同作者提出，對受過教育的公眾來說，終極希望來自教育完全私有化，只有在完全私有的教育制度下，知識才能適當地傳遞給下一代。第五和第六篇討論了自由社會中工會化的複雜問題。一方面，工人應該有辭職的權利；如果他們不能這樣做，他們就與雇主處於奴役關係。另一方面，罷工遠不止是辭職，是全體工人同時集體辭職；它必然涉及對那些可能競爭工作機會而被工會成員唾棄的人（“工賊”）發起暴力。第七篇主張，組織道路、隧道、橋樑、街道和其他通道，最公正和最有效的方式是，將它們私有化。只有在經濟上完全私有財產制度下，消費者福利才能最大化。第八篇以道路為例，對公有財產論進行批判。第一部的最後一篇文章，評價了不同傑出經濟學家對貨幣理論和金本位制的貢獻。提出且捍衛金本位是唯一與自由市場哲學兼容的貨幣體系。&lt;/p&gt;
+&lt;p&gt;第二部分涉及人權和個人自由，它與經濟自由，在自由意志主義中是一體兩面。在我們看來，自由是一體的、不可侵犯的、相互聯繫的、不可分割的。左派和右派各有一點點文明生活的答案，良好社會既需要經濟自由，也需要個人自由。具體有哪些？&lt;/p&gt;
+&lt;p&gt;在第十篇中，我們考察了自由意志主義思想的不侵犯公理、地基及架構其上的私有財產權。第十一篇將這個見解應用於兒童權利，同時拒絕積極義務（Positive Obligation）。閱讀此篇，看看自由意志主義者如何回答「在不侵犯父母忽略這些積極義務之權利的情況下保護青少年」。本彙編的第十二篇文章處理「社會正義」問題。這個概念在特定「社會情境」下描繪「正義」，貌似無可爭議。然而，並非如此，「社會正義」企圖偽裝強制性平等主義的概念，並帶到對話中，必須被自由意志主義者拒絕。&lt;/p&gt;
+&lt;p&gt;人們是否有權根據種族、性別、性取向、美貌、力量或他們選擇的任何標準進行歧視？第十三篇給出的答案為不加限定的「是」。這是否侵犯了「受害族群」的權利？一點也不。移民是自由意志主義圈內廣泛爭論的問題，當然，在一般社會中也是如此。第十四篇站在開放邊界的那邊。在第十五篇中，我們著眼政府問題。政府是合法的機構嗎？政府是否從被統治者的同意中獲得其正當權力？基於人民之前授與政府權力的這個（錯誤的）假設，人民是否有權撤回同意？閱讀本篇吧。第十六篇分析成癮性藥物的適當法律地位。對於自由意志主義者來說，這是毫無疑問的：所有成年人都有權在他們的身體中放置任何他們想要的東西。但，合法化難道不會導致犯罪、混亂、貪污嗎？不；這些都是禁令的結果，就像酒精一樣。成癮性藥物的合法化將消除這些問題，使它們處於類似現在啤酒、葡萄酒和白酒所佔據的地位。第二部分以一篇文章結束，釐清自由意志主義（libertarianism）和自由主義（libertinism）之間的混淆。&lt;/p&gt;
+&lt;p&gt;第三部分很簡短，但是它對自由意志主義理論具有重要貢獻。它關注我們為自由辯護的語言。如果我們在用詞方面受限於政治正確的考慮，如果我們不能充分、自由和正確地使用詞語，那麼我們會很難，甚至無法表達自由意志主義的訊息。自由的敵人已經花了許多功夫，把許多重要關鍵詞從「廣被接受的」詞彙中刪除。即使是應當更了解的自由意志主義者也受制於這些用詞習慣，因此削弱了他們捍衛自由意志哲學的努力。爭議詞包括：女士（ms.）、發展中國家（developing countries）、尋租（rent-seeking）、社會正義（social justice）、稅收補貼（tax subsidies）、財產權（property rights）、骯髒的富人（filthy rich）、特權（privileged）、非勞動所得（unearned income）、自由人（freeman）、超人（ultra）、奸商（profiteer）、焚書（book burning）、利益相關者（stakeholder）、不勞而獲（get something for nothing）、搭便車（free rider）、公平貿易（fair trade）、機會主義（opportunistic）、紅州（red states）、藍州（blue states）、自由主義者（liberal），最後但同樣重要的是，自由意志主義者（libertarian）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Walter Block&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div class="footnotes" role="doc-endnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Walter Block, “Libertarianism is Unique; It Belongs Neither to the Right Nor the Left; A Critique of the Views of Long, Holcombe, and Baden on the left, Hoppe, Feser and Paul on the right,” Journal of Libertarian Studies, 2010&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>參考書目</title><link>https://raviwu.github.io/books-building-blocks-liberty/docs/04-bibliography/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://raviwu.github.io/books-building-blocks-liberty/docs/04-bibliography/</guid><description>&lt;h1 id="參考書目"&gt;
  參考書目
- &lt;a class="anchor" href="#%e5%8f%83%e8%80%83%e6%9b%b8%e7%9b%ae">#&lt;/a>
-&lt;/h1>
-&lt;p>Abedian, I., and B. Standish. 1985. “Poor Whites and the Role of the State: The Evidence,” South Africa Journal of Economics 52, no. 2.&lt;/p>
-&lt;p>Abella, Irving, and Harold Troper. 1982. None is Too Many: Canada and the Jews of Europe, 1933–1948, Toronto: Lester and Orpen Dennys.&lt;/p>
-&lt;p>Adams, Charles. 2000. When in the Course of Human Events: Arguing the Case for Southern Secession, New York: Rowman &amp;amp; Littlefield.&lt;/p></description></item></channel></rss>
+ &lt;a class="anchor" href="#%e5%8f%83%e8%80%83%e6%9b%b8%e7%9b%ae"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Abedian, I., and B. Standish. 1985. “Poor Whites and the Role of the State: The Evidence,” South Africa Journal of Economics 52, no. 2.&lt;/p&gt;
+&lt;p&gt;Abella, Irving, and Harold Troper. 1982. None is Too Many: Canada and the Jews of Europe, 1933–1948, Toronto: Lester and Orpen Dennys.&lt;/p&gt;
+&lt;p&gt;Adams, Charles. 2000. When in the Course of Human Events: Arguing the Case for Southern Secession, New York: Rowman &amp;amp; Littlefield.&lt;/p&gt;</description></item></channel></rss>
