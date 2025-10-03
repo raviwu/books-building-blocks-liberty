@@ -5,8 +5,6 @@ weight: 53
 
 # 12 Social Justice
 
-
-
 On many university campuses, there is a push on to promote social justice. There are two ways to define “social justice.”
 
 First, this concept may be defined substantively. Here, it is typically associated with left-wing or socialist analyses, policies and prescriptions. For example, poverty is caused by unbridled capitalism; the solution is to heavily regulate markets, or ban them outright. Racism and sexism account for the relative plight of racial minorities and women; laws should be passed prohibiting their exercise. Greater reliance on government is required as the solution of all sorts of social problems. The planet is in great danger from environmental despoliation, due to an unjustified reliance on private property rights. Taxes are too low; they should be raised. Charity is an insult to the poor, who must obtain more revenues by right, not condescension. Diversity is the sine qua non of the fair society. Discrimination is one of the greatest evils to have ever beset mankind. Use of terminology such as “mankind” is sexist, and constitutes hate speech.
@@ -29,13 +27,14 @@ It is misguided in disciplines such as mathematics, physics, chemistry, music, a
 
 And it is totally unnecessary, particularly in the social sciences but also in the humanities. For if members of these disciplines are not already conducting studies on issues germane to social justice (and, of course, to other things as well) then they are simply derelict in their duty. If historians, sociologists, anthropologists, economists, and philosophers are ignoring poverty, unemployment, war, environmentalism, etc., no exhortations to the contrary are likely to improve matters.
 
-Colleges and universities therefore ought to cease and desist forthwith from labeling themselves in this manner, and from promoting all extant programs to this end. It is unseemly to foist upon its faculty and students any one point of view on these highly contentious issues. It would be just as improper to do so from a free enterprise, limited government private property rights perspective as it is from its present stance in the opposite direction. For additional material critical of these initiatives, see Michael Novak 1.
+Colleges and universities therefore ought to cease and desist forthwith from labeling themselves in this manner, and from promoting all extant programs to this end. It is unseemly to foist upon its faculty and students any one point of view on these highly contentious issues. It would be just as improper to do so from a free enterprise, limited government private property rights perspective as it is from its present stance in the opposite direction. For additional material critical of these initiatives, see Michael Novak [^1].
 
 Of course, social justice may be defined in yet a third manner: as favoring justice in the “social” arena, as opposed to other venues. Here, all intellectual combatants would favor the promotion of this value; the only difference is that leftists, for example, mean by this some version of egalitarianism, while for libertarians justice consists of the upholding of private property rights. For a college to uphold social justice in this sense would be highly problematic, in that two very different things would be connoted by this phrase.
 
-
-
+---
 
 Printed with kind permission of Mr. Llewellyn H. Rockwell, Jr. This article was initially posted on http://www.lewrockwell.com website.
 
-1 http://www.firstthings.com/ftissues/ft0012/opinion/novak.html
+---
+
+[^1]: http://www.firstthings.com/ftissues/ft0012/opinion/novak.html

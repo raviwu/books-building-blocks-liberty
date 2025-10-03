@@ -5,10 +5,7 @@ weight: 63
 
 # 20 Word Watch
 
-
-
-Stakeholder
-
+## Stakeholder
 
 A new word has crept into our lexicon, courtesy of our friends on the left. It is “stakeholder” and it is the entering wedge of yet another attack on private property rights.
 
@@ -26,9 +23,9 @@ More basically, the problem with this scheme is that it amounts to theft. How el
 
 All the nosey passersby seem to get a property right in the company, but the owners of the firm, for some strange reason known only to our friends on the left, do not obtain a similar right to their property (this is on the assumption that they have any). But logical consistency is only the “hobgobblin of little minds,” so perhaps it is reasonable that stakeholding should not be a two-way street. Why ruin a perfect concept?
 
-Getting something for nothing
+## Getting something for nothing
 
-According to a libertarian who ought to know better, “one of the basest human motives [is] the desire to get something for nothing.”1
+According to a libertarian who ought to know better, “one of the basest human motives [is] the desire to get something for nothing.”[^1]
 
 Now, there is, of course, a sense in which this is totally unobjectionable. Theft, for example, is a way to “get something for nothing,” and is the paradigm case of an illegitimate act from the libertarian perspective.
 
@@ -50,12 +47,7 @@ I have just finished running a marathon race, and those oranges look like liquid
 
 Or, in other words, I just got something for nothing in terms of consumer surplus as did the grocer in terms of producer or seller surplus. This is part and parcel of the “magic of the marketplace,” and should not be denigrated.
 
-
-
-
-
-Free Rider
-
+## Free Rider
 
 A concept seen by mainstream economists with fear, loathing and disgust is that of the “free rider.” Anyone who gets a value for which he does not pay (another version of “getting something for nothing”) is relegated to the depths in neoclassical economics. The free rider is evidence, for them, of economic inefficiency, a so-called “market failure” and charged with committing the sin of an “external economy.”
 
@@ -67,16 +59,12 @@ Damned if you do, damned if you don’t, seems to be the motto of the neoclassic
 
 What nonsense. As Murray Rothbard (1997, p. 178) has stated in one of the most insightful comments in all of economics,
 
-	A and B often benefit, it is held, if they can force C into doing something... any argument proclaiming the right and goodness of, say, three neighbors, who yearn to form a string quartet, forcing a forth neighbor at bayonet point to learn and play the viola, is hardly deserving of sober comment.
-
-
+> A and B often benefit, it is held, if they can force C into doing something... any argument proclaiming the right and goodness of, say, three neighbors, who yearn to form a string quartet, forcing a forth neighbor at bayonet point to learn and play the viola, is hardly deserving of sober comment.
 
 If people are nice to one another, if they smile at each other, well and good. If we appreciate what Einstein and Mozart have given us, if we are “free riders” on them, again well and good. We are all the beneficiaries of those who came before us. This is part and parcel of civilized living, and is no cause for alarm.
 
-
-
+---
 
 Printed with kind permission of the Ludwig von Mises Institute. This article was initially posted as “Daily Article” on http://www.mises.org website.
 
-1 B. Bradford, Liberty Magazine, May (2000), p. 7.
-
+[^1]: B. Bradford, Liberty Magazine, May (2000), p. 7.

@@ -5,8 +5,6 @@ weight: 56
 
 # 15 Secession
 
-
-
 The law of free association is a crucially important implication of the rights of private property (in physical material, and in our own bodies). For if we cannot freely associate with others on a mutually-voluntary basis, our property rights are to that extent abrogated.
 
 The most serious denigration of property rights in persons and thus in free association is, of course, murder. No one favors such behavior (killing in self-defense is entirely another matter) so this is not at all controversial. Another grave violation of the libertarian code of nonaggression against nonaggressors and their property is slavery (or kidnapping, which is short-term slavery). This, too, is nondebatable.
@@ -47,7 +45,6 @@ However, even under these assumptions individual abolitionists would be perfectl
 
 There would be no “reconstruction.” There would be no “indivisible” U.S.A. Rather, there would now be two totally separate countries. The U.S.A. and the Confederacy. Again, once slavery was ended, given that there were no other crimes occurring, and that due punishment was meted out to the evil-doers, that would be the end of the matter.
 
-
-
+---
 
 Printed with kind permission of Mr. Llewellyn H. Rockwell, Jr. This article was initially posted on http://www.lewrockwell.com website.

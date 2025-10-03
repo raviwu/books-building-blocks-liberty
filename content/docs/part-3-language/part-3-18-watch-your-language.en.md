@@ -3,20 +3,13 @@ title: "18 Watch Your Language"
 weight: 61
 ---
 
-18 Watch Your Language
-
-
+# 18 Watch Your Language
 
 Language is crucial to clear communication. It makes distinctions. We can hardly express ourselves without it. Our very thoughts can either be brought forth, or not, depending upon whether we have sufficient verbiage with which to attain this end. If the pen is mightier than the sword because it can determine the direction in which this weapon is aimed, then words are even mightier than the pen, for without the former the latter is useless.
 
 Which words have we lost? Which have been thrust down our throats by the forces of socialism, statist feminism, and political correctness? What changes are imperative, if we are to even have a chance to turn things around in a more freedom-oriented direction?
 
-
-
-
-
-Ms.
-
+## Ms.
 
 Mrs. and Miss have been all but taken from us, and we have been given the execrable Ms. in their place. This is a crucial loss, for the modern language in this regard papers over, nay, obliterates, the distinction between the married and unmarried state for women, while the “archaic” words positively exult in this distinction. This alteration has become so well entrenched by the “inclusive” language movement that even some ostensibly conservative writers and periodicals have adopted it.
 
@@ -38,21 +31,11 @@ And the same analysis applies to using “he” to stand for “he” or “she,
 
 Could we have as successfully criticized Marxism, had we felt constrained to couch our attacks in Marxist language?
 
-
-
-
-
-Developing Countries
-
+## Developing Countries
 
 It is errant leftism to call the underdeveloped countries of the world “developing.” This is a triumph of will and good intentions over reality; many of these countries are retrogressing, not at all developing. Why not call a spade a spade and insist upon truth in political economy? Let us reserve the honorific “developing” for those countries which have, however imperfectly, embraced capitalism and are hence growing, and use “underdeveloped” or “retrogressing” for those, such as North Korea or Cuba, which still cling to central planning and government ownership, and as a result are in the process of moving back to the economics of the Stone Age.
 
-
-
-
-
-Rent-seeking
-
+## Rent-seeking
 
 In the literature of the Public Choice school of economic thought, the phrase “rent-seeking” is used to described what, even for them, is a rather despicable act: using the power of the state to capture wealth which would not be forthcoming through ordinary market transactions. Examples include minimum wages, farm subsidies, tariffs, etc.
 
@@ -64,12 +47,7 @@ For example, when the price of Rembrandts increases, this does not call forth an
 
 To conflate either of these activities with running to government for special grants of privilege to undermine one’s competitors is thus an unwarranted attack on rational language. With friends like these, the freedom philosophy hardly needs enemies.
 
-
-
-
-
-Social Justice
-
+## Social Justice
 
 For any rational person, “social justice” would indicate a subset of justice focused more narrowly than the entire concept of just, presumably on “social” issues, whatever they are. But in the real word, this phrase applies not to a subcategory of justice, but rather to one particular perspective on justice, namely, that articulated by our friends on the left.
 
@@ -77,12 +55,7 @@ This places opponents of socialism, multiculturalism, etc., in the position of h
 
 In my view, we, too, should embrace “social justice.” However, of course, instead of taking an egalitarian position on the concept, we utilize our tried-and-true insights involving personal and private property rights, negative liberties, homesteading, etc.
 
-
-
-
-
-Tax Subsidies
-
+## Tax Subsidies
 
 The government does not tax the churches. The government does not (yet) tax (and control) the Internet. Is this fair? Not at all, maintain some. These are tax subsidies. The government is subsidizing churches and e-mail, forcing the rest of us to pay more as a result. That is one way to look at the matter.
 
@@ -92,22 +65,15 @@ This is nonsense on stilts. We are the legitimate owners of all we produce, and 
 
 * * * *
 
-
-
-
-
-Tom Bethell on Property Rights
-
+## Tom Bethell on Property Rights
 
 Tom Bethell is fast becoming a “point man” on the subject of private property rights. This reputation was initially garnered with the publication of his book The Noblest Triumph: Property and Prosperity through the Ages.
 
 This was followed up with his Wall Street Journal column of December 27, 1999 entitled “Property Rights, Prosperity and 1,000 Years of Lessons.” Evidently, Bethell didn’t read, or at least not carefully enough, my critique of his book published in the Fall 1999 issue of the Quarterly Journal of Austrian Economics, because he is up to his old tricks again: pretending to be an advocate of the private property philosophy while actually undermining it.
 
-	A quote from his latest missive:
+> A quote from his latest missive:
 
-	The great legal innovation of this millennium was equality before the law, which first evolved in England. In the courts of common law, all men were seen to be created equal. This had momentous economic consequences. The new equality of status encouraged the freedom of contract and the rise of an exchange economy. The transmission of property became increasingly “horizontal”—from seller to buyer—and decreasingly vertical—from father to son. Wealth was democratized. It was acquired by those who, by virtue of their labor and ingenuity, merited it rather than inherited it. Contract superseded status.
-
-
+> The great legal innovation of this millennium was equality before the law, which first evolved in England. In the courts of common law, all men were seen to be created equal. This had momentous economic consequences. The new equality of status encouraged the freedom of contract and the rise of an exchange economy. The transmission of property became increasingly “horizontal”—from seller to buyer—and decreasingly vertical—from father to son. Wealth was democratized. It was acquired by those who, by virtue of their labor and ingenuity, merited it rather than inherited it. Contract superseded status.
 
 Now this is more than passingly curious. Why does Bethell think fathers work so hard, save their money, innovate, etc., if not to help their sons in particular and their families in general?
 
@@ -121,12 +87,7 @@ A far better candidate for the role of oppressor in the vertical direction is th
 
 * * * *
 
-
-
-
-
-The Cuban Boy Controversy
-
+## The Cuban Boy Controversy
 
 What to do with six-year-old Elian Gonzalez? The position of Clinton and Reno is clear. Do not make this into a political football. Allow the courts or the INS or indeed, pretty much anyone else, to decide, as long as they make a determination in favor of Castro. We can reject the views of these Waco killers out of hand; they have already far too clearly established a record with regard to the rights of children.
 
@@ -166,9 +127,8 @@ Would we give such a claim any credence? Hardly. We would give it the back of ou
 
 What, then, is the solution? We must ensure that the return of the child is really the wish of Elian’s sole surviving parent. This can be accomplished by allowing Juan Miguel Gonzalez, along with his family and friends, to come to Florida to pick him up. (I assume that Elian is too young to make this decision for himself.) Then, he and only he should be allowed to decide.
 
-
-
+---
 
 Printed with kind permission of the Ludwig von Mises Institute. This article was initially posted as “Daily Article” on http://www.mises.org website.
 
-1 Gwartney, Lawson, and Block (1996).
+[^1]: Gwartney, Lawson, and Block (1996).

@@ -5,9 +5,7 @@ weight: 65
 
 # 22 Voluntary Taxes: Abusive Language and Politicians
 
-
 (with William Barnett)
-
 
 In his March 20, 2002 letter to the Wall Street Journal “‘Tough-Guy’ Proposals for Indiana’s Budget,” that state’s Governor Frank O’Bannon calls “for increases in two minor, voluntary taxes—on cigarettes and riverboat admissions.”
 
@@ -21,8 +19,6 @@ But if this were true, then robbery would no longer be a crime. A robbery victim
 
 C’mon, Governor, give us a break! Using the coercive power of government to relieve people of their hard-earned wealth is bad enough, but debasing the language (no doubt quality education is a top priority for this servant of the people) in the process only adds insult to injury.
 
-
-
+---
 
 Printed with kind permission of Mr. Llewellyn H. Rockwell, Jr. This article was initially posted on http://www.lewrockwell.com website. William Barnett II is Chase Distinguished Professor of International Business and Professor of Economics at Loyola University, New Orleans.
-
