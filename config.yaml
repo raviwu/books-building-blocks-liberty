@@ -35,7 +35,6 @@ languages:
     weight: 2
 
 disablePathToLower: true
-enableGitInfo: true
 
 # Needed for mermaid/katex shortcodes
 markup:
